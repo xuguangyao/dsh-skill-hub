@@ -2,6 +2,7 @@
   "name": "@local/dsh-skill-hub",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "description": "Skill market for DeepSeek Harness: browse, preview and install skills into ~/.dsh/skills.",
   "type": "module",
   "exports": {
