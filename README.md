@@ -27,8 +27,6 @@ cd dsh-skill-hub
 
 然后在 Harness 的插件安装入口选择该目录，或使用插件管理工具把安装目标指向该目录。
 
-> 仓库目前为私有仓库，克隆前需要登录有权限的 GitHub 账号。
-
 安装后刷新页面，侧边栏会出现「技能市场」图标。插件通过 `dsh.bundle.patch` 插入 `skill-hub` 行，Host 与 Client 两半都会生效。
 
 ## 使用
@@ -66,6 +64,23 @@ node scripts/build-catalog.mjs
 
 # 校验中英文词条覆盖
 node scripts/check-locale.mjs
+
+# Host 路由与安装/卸载回归（需要网络）
+node scripts/test-host.mjs
+node scripts/test-install.mjs
+```
+
+### 渲染测试
+
+`scripts/test-client-render.mjs` 用 React 19 的 `renderToStaticMarkup` 做 SSR 冒烟测试。它不把 React 打包进插件，运行时从 `DSH_REACT_ROOT` 指向的项目里加载：
+
+```powershell
+$env:DSH_REACT_ROOT = "C:\path\to\web-app"
+node scripts/test-client-render.mjs
+```
+
+```bash
+DSH_REACT_ROOT=/path/to/web-app node scripts/test-client-render.mjs
 ```
 
 ### 结构
