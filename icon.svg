@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Skill Market">
+  <defs>
+    <linearGradient id="smk-bg" x1="8" y1="4" x2="58" y2="62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1E293B"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="smk-spark" x1="40" y1="8" x2="56" y2="26" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="15" fill="url(#smk-bg)"/>
+  <rect x="2.75" y="2.75" width="58.5" height="58.5" rx="14.25" fill="none" stroke="#FFFFFF" stroke-opacity="0.14" stroke-width="1.5"/>
+
+  <!-- storefront body -->
+  <path d="M17 29h30v20a4 4 0 0 1-4 4H21a4 4 0 0 1-4-4V29Z" fill="#F8FAFC" fill-opacity="0.96"/>
+  <path d="M24 53V38a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v15" fill="#0F172A"/>
+  <circle cx="37.5" cy="45.5" r="1.6" fill="#FBBF24"/>
+
+  <!-- awning -->
+  <path d="M14.5 27.5 18 17.5h28l3.5 10c.7 2.1-1 4.3-3.2 4.3-1.6 0-3-.9-3.7-2.3-.7 1.4-2.1 2.3-3.7 2.3s-3-.9-3.7-2.3c-.7 1.4-2.1 2.3-3.7 2.3s-3-.9-3.7-2.3c-.7 1.4-2.1 2.3-3.7 2.3-2.2 0-3.9-2.2-3.2-4.3Z" fill="#F59E0B"/>
+  <path d="M18.2 17.5h6.4l-2.1 10h-4.9l-2.6-7.6 3.2-2.4Z" fill="#FDE68A" fill-opacity="0.9"/>
+  <path d="M32.8 17.5h6.4l2.1 10h-6.4l-2.1-10Z" fill="#FDE68A" fill-opacity="0.52"/>
+  <path d="M46 27.5h-4.9l-2.1-10h6.4l2.6 7.6-2 2.4Z" fill="#FDE68A" fill-opacity="0.9"/>
+
+  <!-- spark -->
+  <path d="M49.5 9.5c.5 3.2 2.3 5 5.5 5.5-3.2.5-5 2.3-5.5 5.5-.5-3.2-2.3-5-5.5-5.5 3.2-.5 5-2.3 5.5-5.5Z" fill="url(#smk-spark)"/>
+  <circle cx="43.5" cy="12.5" r="1.2" fill="#7DD3FC"/>
+</svg>

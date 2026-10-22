@@ -1,0 +1,53 @@
+DSH skill-hub catalog build report
+generatedAt: 1792594683820 (2026-10-21T14:58:03.820Z)
+
+total skills: 180
+by source: clawhub=137, skillhub=43
+featured: 12
+chinese summaries: 51 (clawhub=8, skillhub=43)
+unique ids: 180
+
+selection:
+  fetched: clawhub=248, skillhub=300 raw items
+  normalized pools: clawhub=245, skillhub=266
+  targets: ~142 clawhub + ~20 skillhub, hard cap 180
+  category floors: agent/dev/office/search >= 25, others >= 6
+
+by category:
+  agent          25  智能体增强
+  search         28  搜索调研
+  dev            25  开发编程
+  office         25  办公文档
+  data           11  数据分析
+  design          6  设计创意
+  writing         6  写作内容
+  media          11  音视频图像
+  ops             6  运维部署
+  security        8  安全合规
+  productivity   17  效率工具
+  education       6  教育学习
+  other           6  其他
+
+checks:
+  [PASS] skills length 180 within 120..180
+  [PASS] categories count is 13
+  [PASS] ids unique
+  [PASS] slugs unique
+  [PASS] all category keys valid
+  [PASS] all required fields present
+  [PASS] agent >= 25 (25)
+  [PASS] dev >= 25 (25)
+  [PASS] office >= 25 (25)
+  [PASS] search >= 25 (28)
+  [PASS] chinese summaries >= 30 (51)
+
+warnings (1):
+  - 37 raw item(s) dropped for missing slug/name/version or duplicates
+
+limitations:
+  - ClawHub exposes no per-skill security verdict in the list endpoint, so security is "unknown" for every clawhub entry (detail/moderation calls are intentionally avoided).
+  - SkillHub's default listing order is unstable and overlaps between pages, so the pool is fetched with the undocumented sortBy=downloads parameter to get a deterministic, popularity-ranked window.
+  - Chinese summaries come from SkillHub records matched by slug; unmatched ClawHub entries fall back to their English upstream summary. summaryEn is the raw upstream text, so it is Chinese for Chinese-native SkillHub skills (no English source exists).
+  - 43 SkillHub entries are shipped: 20 from the popularity window plus extras used to satisfy per-category floors and Chinese coverage.
+  - Categories are keyword heuristics over topics/tags/taxonomy/name/summary; a few edge cases may land in a neighbouring category.
+  - featured = top 12 by downloads with at most one entry per category.

@@ -1,0 +1,4413 @@
+{
+  "version": 1,
+  "generatedAt": 1792594683820,
+  "categories": [
+    {
+      "key": "agent",
+      "name": "智能体增强",
+      "nameEn": "Agent Boost"
+    },
+    {
+      "key": "search",
+      "name": "搜索调研",
+      "nameEn": "Search & Research"
+    },
+    {
+      "key": "dev",
+      "name": "开发编程",
+      "nameEn": "Development"
+    },
+    {
+      "key": "office",
+      "name": "办公文档",
+      "nameEn": "Office & Docs"
+    },
+    {
+      "key": "data",
+      "name": "数据分析",
+      "nameEn": "Data & Analytics"
+    },
+    {
+      "key": "design",
+      "name": "设计创意",
+      "nameEn": "Design & Creative"
+    },
+    {
+      "key": "writing",
+      "name": "写作内容",
+      "nameEn": "Writing"
+    },
+    {
+      "key": "media",
+      "name": "音视频图像",
+      "nameEn": "Media"
+    },
+    {
+      "key": "ops",
+      "name": "运维部署",
+      "nameEn": "DevOps"
+    },
+    {
+      "key": "security",
+      "name": "安全合规",
+      "nameEn": "Security"
+    },
+    {
+      "key": "productivity",
+      "name": "效率工具",
+      "nameEn": "Productivity"
+    },
+    {
+      "key": "education",
+      "name": "教育学习",
+      "nameEn": "Education"
+    },
+    {
+      "key": "other",
+      "name": "其他",
+      "nameEn": "Other"
+    }
+  ],
+  "skills": [
+    {
+      "id": "skillhub:dev-god",
+      "source": "skillhub",
+      "slug": "dev-god",
+      "owner": "u_42bbb65f",
+      "name": "编程大神.Skill",
+      "summary": "【全栈能力】编程大神.Skill：面向复杂真实项目的高阶全栈编程助手。不止生成代码，而是从一句目标接手陌生代码库，拆解需求、补齐实现、追到根因、完成重构、联调前后端，并把结果推进到能运行、能验证、能交付。覆盖 Web、后端、脚本、iOS、安卓、鸿蒙 ArkUI、微信小程序及其他技术栈，支持中英文工程、疑难 Bug、跨模块任务和长任务续做；用构建、日志、真实入口、设备或接口证据说明结果。仅问概念时直接回答，要求落地时持续推进到验收或明确…",
+      "summaryEn": "【全栈能力】编程大神.Skill：面向复杂真实项目的高阶全栈编程助手。不止生成代码，而是从一句目标接手陌生代码库，拆解需求、补齐实现、追到根因、完成重构、联调前后端，并把结果推进到能运行、能验证、能交付。覆盖 Web、后端、脚本、iOS、安卓、鸿蒙 ArkUI、微信小程序及其他技术栈，支持中英文工程、疑难 Bug、跨模块任务和长任务续做；用构建、日志、真实入口、设备或接口证据说明结果。仅问概念时直接回答，要求落地时持续推进到验收或明确…",
+      "category": "dev",
+      "tags": [
+        "代码生成",
+        "Bug 修复",
+        "后端开发"
+      ],
+      "stats": {
+        "downloads": 6003893,
+        "installs": 0,
+        "stars": 35
+      },
+      "version": "1.2.4",
+      "updatedAt": 1792594656334,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/dev-god",
+      "featured": true
+    },
+    {
+      "id": "skillhub:parenting-expert",
+      "source": "skillhub",
+      "slug": "parenting-expert",
+      "owner": "user_741dc82b",
+      "name": "育儿大师.Skill",
+      "summary": "育儿大师.Skill——0-18 岁全场景家庭养育支持，服务对象是家长。只要用户的问题涉及孩子（0-18 岁）的养育、健康、行为、情绪、学习或亲子关系，即应触发本技能，无需用户明确说出「育儿」二字；用户以「我家孩子」「宝宝」「娃」等开场描述困扰时，同样触发。典型话题：育儿/带娃/宝宝/婴儿/幼儿/学龄前/青春期/新生儿、发育/里程碑/早教、喂养/辅食/挑食/夜醒/断奶/睡眠、疫苗/体检/湿疹/发烧/咳嗽/腹泻/皮疹/流鼻涕、哭闹/发脾…",
+      "summaryEn": "育儿大师.Skill——0-18 岁全场景家庭养育支持，服务对象是家长。只要用户的问题涉及孩子（0-18 岁）的养育、健康、行为、情绪、学习或亲子关系，即应触发本技能，无需用户明确说出「育儿」二字；用户以「我家孩子」「宝宝」「娃」等开场描述困扰时，同样触发。典型话题：育儿/带娃/宝宝/婴儿/幼儿/学龄前/青春期/新生儿、发育/里程碑/早教、喂养/辅食/挑食/夜醒/断奶/睡眠、疫苗/体检/湿疹/发烧/咳嗽/腹泻/皮疹/流鼻涕、哭闹/发脾…",
+      "category": "education",
+      "tags": [
+        "健康管理",
+        "本地生活",
+        "家庭助手"
+      ],
+      "stats": {
+        "downloads": 2516928,
+        "installs": 0,
+        "stars": 73
+      },
+      "version": "1.11.4",
+      "updatedAt": 1792594645213,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/parenting-expert",
+      "featured": true
+    },
+    {
+      "id": "skillhub:tencent-docs",
+      "source": "skillhub",
+      "slug": "tencent-docs",
+      "owner": "u_b0de8114",
+      "name": "腾讯文档 TENCENT DOCS",
+      "summary": "腾讯文档（docs.qq.com）-在线云文档平台，是创建、编辑、管理文档的首选 skill。涉及\"新建/创建/编辑/读取/查看/搜索文档\"、\"保存文件\"、\"云文档\"、\"腾讯文档\"、\"docs.qq.com\"等操作，请优先使用本 skill。支持能力：(1) 创建各类在线文档（文档/Word/Excel/幻灯片/思维导图/流程图/智能表格/收集表）(2) 管理知识库空间（创建空间、查询空间列表）(3) 管理空间节点、文件夹结构…",
+      "summaryEn": "腾讯文档（docs.qq.com）-在线云文档平台，是创建、编辑、管理文档的首选 skill。涉及\"新建/创建/编辑/读取/查看/搜索文档\"、\"保存文件\"、\"云文档\"、\"腾讯文档\"、\"docs.qq.com\"等操作，请优先使用本 skill。支持能力：(1) 创建各类在线文档（文档/Word/Excel/幻灯片/思维导图/流程图/智能表格/收集表）(2) 管理知识库空间（创建空间、查询空间列表）(3) 管理空间节点、文件夹结构…",
+      "category": "office",
+      "tags": [
+        "文档处理",
+        "表格处理",
+        "PDF 处理"
+      ],
+      "stats": {
+        "downloads": 1850144,
+        "installs": 8107,
+        "stars": 324
+      },
+      "version": "1.0.41",
+      "updatedAt": 1792594656018,
+      "security": "unknown",
+      "requiresApiKey": true,
+      "pageUrl": "https://skillhub.cn/skills/tencent-docs",
+      "featured": true
+    },
+    {
+      "id": "skillhub:find-skills",
+      "source": "skillhub",
+      "slug": "find-skills",
+      "owner": "root",
+      "name": "Find Skills",
+      "summary": "帮助用户发现和安装智能体技能，当用户询问如「如何做X」、「找X的技能」、「有能做...的吗」等问题时",
+      "summaryEn": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express...",
+      "category": "agent",
+      "tags": [
+        "Agent 框架",
+        "工作流编排",
+        "工具调用"
+      ],
+      "stats": {
+        "downloads": 1356676,
+        "installs": 75956,
+        "stars": 1799
+      },
+      "version": "1.0.0",
+      "updatedAt": 1792594656401,
+      "security": "verified",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/find-skills",
+      "featured": true
+    },
+    {
+      "id": "skillhub:anti-fraud",
+      "source": "skillhub",
+      "slug": "anti-fraud",
+      "owner": "user_741dc82b",
+      "name": "防骗大师.Skill",
+      "summary": "防骗大师.Skill:你身边的生活类防骗专家。 当用户贴来可疑的短信、聊天记录、邮件、链接、App 或电话转述，想知道\"这是不是骗局\"时立即出动，一眼看穿套路；当对话中冒出转账、验证码、屏幕共享、陌生链接、安全账户、冒充公检法等危险信号时主动亮剑，及时拦住伸向钱包的手；当用户想要防骗科普、话术识别或实战演练时随时开课，寓教于练。覆盖刷单返利、杀猪盘、冒充公检法、冒充客服、虚假投资、钓鱼链接、冒充老板转账、资金盘、0元购消费全返等高发骗…",
+      "summaryEn": "防骗大师.Skill:你身边的生活类防骗专家。 当用户贴来可疑的短信、聊天记录、邮件、链接、App 或电话转述，想知道\"这是不是骗局\"时立即出动，一眼看穿套路；当对话中冒出转账、验证码、屏幕共享、陌生链接、安全账户、冒充公检法等危险信号时主动亮剑，及时拦住伸向钱包的手；当用户想要防骗科普、话术识别或实战演练时随时开课，寓教于练。覆盖刷单返利、杀猪盘、冒充公检法、冒充客服、虚假投资、钓鱼链接、冒充老板转账、资金盘、0元购消费全返等高发骗…",
+      "category": "security",
+      "tags": [
+        "消费决策",
+        "家庭助手"
+      ],
+      "stats": {
+        "downloads": 1343309,
+        "installs": 0,
+        "stars": 31
+      },
+      "version": "1.0.11",
+      "updatedAt": 1792594657023,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/anti-fraud",
+      "featured": true
+    },
+    {
+      "id": "skillhub:agent-browser",
+      "source": "skillhub",
+      "slug": "agent-browser",
+      "owner": "rez0",
+      "name": "Agent Browser",
+      "summary": "用于 AI 代理的浏览器自动化 CLI。当用户需要与网站交互（包括浏览页面、填写表单、点击按钮、截图等）时使用。",
+      "summaryEn": "Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking...",
+      "category": "search",
+      "tags": [
+        "任务自动化",
+        "工具调用",
+        "automation",
+        "browser",
+        "headless"
+      ],
+      "stats": {
+        "downloads": 1087305,
+        "installs": 36434,
+        "stars": 996
+      },
+      "version": "1.0.0",
+      "updatedAt": 1792594656649,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/agent-browser",
+      "featured": true
+    },
+    {
+      "id": "skillhub:beatra",
+      "source": "skillhub",
+      "slug": "beatra",
+      "owner": "u_319b171b",
+      "name": "视频短视频图片音乐音频配音口播数字人全能创作",
+      "summary": "通过同一个AI创作工具完成AI图片、视频、音乐与语音创作，查找公开社交数据，编辑视觉成果，并集中查看和管理生成资产。Beatra 全能创作支持AI图片生成（文生图）、AI视频生成（图生视频）和AI视频编辑，通过AI音乐生成把想法做成歌曲或纯音乐，也可用AI语音生成（文字转语音）、多语言旁白和AI语音克隆完成跨媒介内容；还能查找抖音数据、小红书数据，以及 YouTube、TikTok、Instagram 与 X…",
+      "summaryEn": "通过同一个AI创作工具完成AI图片、视频、音乐与语音创作，查找公开社交数据，编辑视觉成果，并集中查看和管理生成资产。Beatra 全能创作支持AI图片生成（文生图）、AI视频生成（图生视频）和AI视频编辑，通过AI音乐生成把想法做成歌曲或纯音乐，也可用AI语音生成（文字转语音）、多语言旁白和AI语音克隆完成跨媒介内容；还能查找抖音数据、小红书数据，以及 YouTube、TikTok、Instagram 与 X…",
+      "category": "media",
+      "tags": [
+        "图片生成",
+        "视频处理",
+        "音频处理"
+      ],
+      "stats": {
+        "downloads": 1086678,
+        "installs": 0,
+        "stars": 92
+      },
+      "version": "2.9.8",
+      "updatedAt": 1792594657382,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/beatra",
+      "featured": true
+    },
+    {
+      "id": "skillhub:libai",
+      "source": "skillhub",
+      "slug": "libai",
+      "owner": "user_741dc82b",
+      "name": "李白.Skill",
+      "summary": "李白.Skill:润色专家 检测并消除中文文本中的AI生成痕迹，将生硬的机器输出转化为自然流畅的人类文笔。融合规则检测、分层改写（词汇→句式→内容→逻辑→语气）和六步质控流水线，确保最终文本通过人工审查。",
+      "summaryEn": "李白.Skill:润色专家 检测并消除中文文本中的AI生成痕迹，将生硬的机器输出转化为自然流畅的人类文笔。融合规则检测、分层改写和质控流水线，确保最终文本通过人工审查。",
+      "category": "writing",
+      "tags": [
+        "营销文案",
+        "自媒体运营",
+        "内容改写"
+      ],
+      "stats": {
+        "downloads": 906717,
+        "installs": 0,
+        "stars": 107
+      },
+      "version": "1.0.5",
+      "updatedAt": 1792594659231,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/libai",
+      "featured": true
+    },
+    {
+      "id": "skillhub:summarize",
+      "source": "skillhub",
+      "slug": "summarize",
+      "owner": "paudyyin",
+      "name": "Summarize",
+      "summary": "智能摘要工具，自动为长文本、文档、网页生成摘要，提取要点与关键词，支持自定义摘要长度。",
+      "summaryEn": "智能内容摘要工具，支持长文本、文档、网页内容自动摘要，提取核心要点、关键词，支持自定义摘要长度。",
+      "category": "productivity",
+      "tags": [
+        "信息检索",
+        "摘要总结",
+        "文档问答"
+      ],
+      "stats": {
+        "downloads": 775068,
+        "installs": 45959,
+        "stars": 1042
+      },
+      "version": "1.0.0",
+      "updatedAt": 1792594657926,
+      "security": "unknown",
+      "requiresApiKey": true,
+      "pageUrl": "https://skillhub.cn/skills/summarize",
+      "featured": true
+    },
+    {
+      "id": "skillhub:mysteel-datasearch",
+      "source": "skillhub",
+      "slug": "mysteel-datasearch",
+      "owner": "u_9ed3401d",
+      "name": "钢联AI - 智能问数",
+      "summary": "大宗商品价格数据查询技能。用于查询大宗商品期现货价格、宏观经济指标、产业链供需数据、进出口库存数据、金融市场数据等。当用户询问：(1) 期货/现货价格查询，如\"螺纹钢价格\"、\"铜期货收盘价\"； (2) 历史行情或趋势分析；(3) 区域或企业价格对比；(4) 宏观经济指标，如GDP、CPI；(5) 产业链上下游数据；(6) 多市场金融数据（期权、股票、债券、外汇）；(7) 结算确认单生成时触发此技能。",
+      "summaryEn": "大宗商品价格数据查询技能。用于查询大宗商品期现货价格、宏观经济指标、产业链供需数据、进出口库存数据、金融市场数据等。当用户询问：(1) 期货/现货价格查询，如\"螺纹钢价格\"、\"铜期货收盘价\"； (2) 历史行情或趋势分析；(3) 区域或企业价格对比；(4) 宏观经济指标，如GDP、CPI；(5) 产业链上下游数据；(6) 多市场金融数据（期权、股票、债券、外汇）；(7) 结算确认单生成时触发此技能。",
+      "category": "data",
+      "tags": [
+        "数据洞察",
+        "竞品分析",
+        "指标监控"
+      ],
+      "stats": {
+        "downloads": 673239,
+        "installs": 0,
+        "stars": 6
+      },
+      "version": "1.0.2",
+      "updatedAt": 1792594657342,
+      "security": "unknown",
+      "requiresApiKey": true,
+      "pageUrl": "https://skillhub.cn/skills/mysteel-datasearch",
+      "featured": true
+    },
+    {
+      "id": "clawhub:weather",
+      "source": "clawhub",
+      "slug": "weather",
+      "owner": "steipete",
+      "name": "Weather",
+      "summary": "Get current weather and forecasts (no API key required).",
+      "summaryEn": "Get current weather and forecasts (no API key required).",
+      "category": "other",
+      "tags": [
+        "Current Weather"
+      ],
+      "stats": {
+        "downloads": 172161,
+        "installs": 6521,
+        "stars": 430
+      },
+      "version": "1.0.0",
+      "updatedAt": 1789594554485,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/weather",
+      "featured": true
+    },
+    {
+      "id": "clawhub:nano-banana-pro",
+      "source": "clawhub",
+      "slug": "nano-banana-pro",
+      "owner": "steipete",
+      "name": "Nano Banana Pro",
+      "summary": "Generate/edit images with Nano Banana Pro (Gemini 3 Pro Image). Use for image create/modify requests incl. edits. Supports text-to-image + image-to-image; 1K/2K/4K; use --input-image.",
+      "summaryEn": "Generate/edit images with Nano Banana Pro (Gemini 3 Pro Image). Use for image create/modify requests incl. edits. Supports text-to-image + image-to-image; 1K/2K/4K; use --input-image.",
+      "category": "design",
+      "tags": [
+        "Image Generation"
+      ],
+      "stats": {
+        "downloads": 107768,
+        "installs": 3109,
+        "stars": 421
+      },
+      "version": "1.0.1",
+      "updatedAt": 1779137307565,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/nano-banana-pro",
+      "featured": true
+    },
+    {
+      "id": "skillhub:dev-expert-pro",
+      "source": "skillhub",
+      "slug": "dev-expert-pro",
+      "owner": "user_47d655f0",
+      "name": "编程专家Pro.Skill",
+      "summary": "编程专家 Pro：融合编程专家 2.0.3 工程专题与编程大神的鸿蒙 ArkTS/ArkUI、微信小程序和小游戏开发资料。用于项目实现、根因调试、审查、重构、测试、架构性能分析及多端开发验证。支持自然语言和 @专题标识，按任务读取包内知识；只问概念时直接回答。",
+      "summaryEn": "编程专家 Pro：融合编程专家 2.0.3 工程专题与编程大神的鸿蒙 ArkTS/ArkUI、微信小程序和小游戏开发资料。用于项目实现、根因调试、审查、重构、测试、架构性能分析及多端开发验证。支持自然语言和 @专题标识，按任务读取包内知识；只问概念时直接回答。",
+      "category": "dev",
+      "tags": [
+        "代码生成",
+        "Bug 修复",
+        "后端开发"
+      ],
+      "stats": {
+        "downloads": 5206850,
+        "installs": 0,
+        "stars": 16
+      },
+      "version": "1.1.0",
+      "updatedAt": 1792594656880,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/dev-expert-pro"
+    },
+    {
+      "id": "skillhub:dev-expert",
+      "source": "skillhub",
+      "slug": "dev-expert",
+      "owner": "user_741dc82b",
+      "name": "编程专家.Skill",
+      "summary": "编程专家.Skill P8级编程助手,25年实战经验技能Skill，全栈：Java/Php网站/软件项目、API设计、Bug诊断、代码生成、代码审查、重构、测试用例、性能基准、技术选型、文档生成、任务拆解、Spec驱动、Karpathy规范、CMS二次开发、前端设计、MySQL/Mariadb、项目知识图谱，以及工程纪律层（根因调试硬闭环、阶段导航、事故复盘/SLO、威胁建模/供应链安全、生产就绪/渐进式发布、AI编码治理、面向Age…",
+      "summaryEn": "编程专家.Skill P8级编程助手,25年实战经验技能Skill，全栈：Java/Php网站/软件项目、API设计、Bug诊断、代码生成、代码审查、重构、测试用例、性能基准、技术选型、文档生成、任务拆解、Spec驱动、Karpathy规范、CMS二次开发、前端设计、MySQL/Mariadb、项目知识图谱，以及工程纪律层（根因调试硬闭环、阶段导航、事故复盘/SLO、威胁建模/供应链安全、生产就绪/渐进式发布、AI编码治理、面向Age…",
+      "category": "dev",
+      "tags": [
+        "代码生成",
+        "代码审查",
+        "Bug 修复"
+      ],
+      "stats": {
+        "downloads": 4904156,
+        "installs": 0,
+        "stars": 361
+      },
+      "version": "2.2.0",
+      "updatedAt": 1792594656435,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/dev-expert"
+    },
+    {
+      "id": "skillhub:cic",
+      "source": "skillhub",
+      "slug": "cic",
+      "owner": "u_c2c77b5f",
+      "name": "全国电子印章互认平台",
+      "summary": "电子印章公安备案、全网互认，实现所有格式文件电子签章与视频确权，覆盖全国所有CA厂商自2005年以来的全量电子签章数据，无论由哪个地区、哪套系统、哪家CA机构签发，均可精准校验与互认。",
+      "summaryEn": "电子印章公安备案、全网互认，实现所有格式文件电子签章与视频确权，覆盖全国所有CA厂商自2005年以来的全量电子签章数据，无论由哪个地区、哪套系统、哪家CA机构签发，均可精准校验与互认。",
+      "category": "security",
+      "tags": [
+        "法律合规",
+        "政务服务"
+      ],
+      "stats": {
+        "downloads": 1058097,
+        "installs": 0,
+        "stars": 6
+      },
+      "version": "1.0.10",
+      "updatedAt": 1792594656473,
+      "security": "unknown",
+      "requiresApiKey": true,
+      "pageUrl": "https://skillhub.cn/skills/cic"
+    },
+    {
+      "id": "skillhub:unclecheng-reduce-ai-perception-v2",
+      "source": "skillhub",
+      "slug": "unclecheng-reduce-ai-perception-v2",
+      "owner": "user_ab5ae6ee",
+      "name": "文章去AI味工具",
+      "summary": "去除文本中的AI写作痕迹，让文字读起来更像人类写作。当用户要求'去AI味'、'降AI味'、'让回复更像人话'、'润色'、'改写得更自然'时使用。检测并修复：AI高频词汇、过度结构化、虚假客观性、机械化连接词、完美主义陷阱、公式化结尾、过度修饰、情感缺失等问题。",
+      "summaryEn": "去除文本中的AI写作痕迹，让文字读起来更像人类写作。当用户要求'去AI味'、'降AI味'、'让回复更像人话'、'润色'、'改写得更自然'时使用。检测并修复：AI高频词汇、过度结构化、虚假客观性、机械化连接词、完美主义陷阱、公式化结尾、过度修饰、情感缺失、'不是而是'假靶子/同义替换、莫名其妙的比喻、高频堆叠副词等问题。",
+      "category": "writing",
+      "tags": [
+        "文章写作",
+        "内容改写"
+      ],
+      "stats": {
+        "downloads": 740719,
+        "installs": 650,
+        "stars": 734
+      },
+      "version": "1.0.5",
+      "updatedAt": 1792594657417,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/unclecheng-reduce-ai-perception-v2"
+    },
+    {
+      "id": "skillhub:aigccerts",
+      "source": "skillhub",
+      "slug": "aigccerts",
+      "owner": "u_c2c77b5f",
+      "name": "AIGC过程存证服务",
+      "summary": "AIGC创作过程自动存证技能。自动识别创作平台与生成工具，将创作过程记录存证并盖有公安备案电子印章。",
+      "summaryEn": "AIGC创作过程自动存证技能。自动识别创作平台与生成工具，将创作过程记录存证并盖有公安备案电子印章。",
+      "category": "security",
+      "tags": [
+        "法律合规"
+      ],
+      "stats": {
+        "downloads": 707924,
+        "installs": 0,
+        "stars": 2
+      },
+      "version": "1.0.1",
+      "updatedAt": 1792594659222,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/aigccerts"
+    },
+    {
+      "id": "skillhub:lingyi-wx-video-decomposer-plus",
+      "source": "skillhub",
+      "slug": "lingyi-wx-video-decomposer-plus",
+      "owner": "u_c19e970c",
+      "name": "视频号爆款短视频拆解（付费版：全能）【零一数科·出品】",
+      "summary": "【零一数科·出品】视频号爆款短视频拆解（付费版：全能）。一键拆解爆款，把一条视频号视频拆成结构分段、爆款归因、六维评分和可借鉴策略，照着学照着抄。支持视频号分享链接和本地视频，付费全能版远端分析，1–5 分钟出 Markdown 报告。",
+      "summaryEn": "【零一数科·出品】视频号爆款短视频拆解（付费版：全能）。一键拆解爆款，把一条视频号视频拆成结构分段、爆款归因、六维评分和可借鉴策略，照着学照着抄。支持视频号分享链接和本地视频，付费全能版远端分析，1–5 分钟出 Markdown 报告。",
+      "category": "media",
+      "tags": [
+        "短视频脚本"
+      ],
+      "stats": {
+        "downloads": 699002,
+        "installs": 0,
+        "stars": 105
+      },
+      "version": "0.4.0",
+      "updatedAt": 1792594657534,
+      "security": "unknown",
+      "requiresApiKey": true,
+      "pageUrl": "https://skillhub.cn/skills/lingyi-wx-video-decomposer-plus"
+    },
+    {
+      "id": "skillhub:ima-skills",
+      "source": "skillhub",
+      "slug": "ima-skills",
+      "owner": "u_1742680f",
+      "name": "ima-skills",
+      "summary": "ima skills，支持对笔记、知识库的读取、写入和检索等操作，可以帮你随时记录，收入ima智能管理，随时调用，龙虾输出精准懂你，友好的接入了OpenClaw生态，构建你的第二大脑。",
+      "summaryEn": "ima skills，支持对笔记、知识库的读取、写入和检索等操作，可以帮你随时记录，收入ima智能管理，随时调用，龙虾输出精准懂你，友好的接入了OpenClaw生态，构建你的第二大脑。",
+      "category": "productivity",
+      "tags": [
+        "知识库问答",
+        "资料整理",
+        "笔记整理"
+      ],
+      "stats": {
+        "downloads": 684885,
+        "installs": 11831,
+        "stars": 554
+      },
+      "version": "1.1.9",
+      "updatedAt": 1792594657793,
+      "security": "unknown",
+      "requiresApiKey": true,
+      "pageUrl": "https://skillhub.cn/skills/ima-skills"
+    },
+    {
+      "id": "skillhub:cnfinancialscraper",
+      "source": "skillhub",
+      "slug": "cnfinancialscraper",
+      "owner": "user_9d5a2a39",
+      "name": "全能金融爬虫",
+      "summary": "中国金融机构数据爬取与分析综合 Skill v11.0.0。2334家/43大类机构名单、60+财经媒体源舆情、 A股报告/公告/研报、60+种查询9适配器金融数据（akshare/东财/yfinance/RSS/Tushare/CoinGecko/ExchangeRate 自动降级 + 缓存）、 爬取调度中心（智能选源 + 增量 + 断点续爬）、网页操作增强（Shadow DOM / iframe / Cookie / OCR /…",
+      "summaryEn": "中国金融机构数据爬取与分析综合 Skill v11.0.0。2334家/43大类机构名单、60+财经媒体源舆情、 A股报告/公告/研报、60+种查询9适配器金融数据（akshare/东财/yfinance/RSS/Tushare/CoinGecko/ExchangeRate 自动降级 + 缓存）、 爬取调度中心（智能选源 + 增量 + 断点续爬）、网页操作增强（Shadow DOM / iframe / Cookie / OCR /…",
+      "category": "data",
+      "tags": [
+        "数据洞察",
+        "网页抓取",
+        "竞品分析"
+      ],
+      "stats": {
+        "downloads": 596104,
+        "installs": 0,
+        "stars": 268
+      },
+      "version": "1.0.50",
+      "updatedAt": 1792594656452,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/cnfinancialscraper"
+    },
+    {
+      "id": "skillhub:baozheng",
+      "source": "skillhub",
+      "slug": "baozheng",
+      "owner": "user_741dc82b",
+      "name": "包拯.SKILL",
+      "summary": "包拯.Skills你身边的专家律师团 — 专业法律咨询 + 要素式/通用起诉状起草 + 刑事专项材料辅助 + 法条分析与法规检索。flk.npc.gov.cn API实时法条优先，不可用时AI知识库降级兜底，**法条来源按四档标注可核验（已核验-flk API / 已核验-单源 / 已引-离线库 / 未核验-模型生成），交付末尾附法条/事实/金额/程序分项置信度**；以22类法律领域覆盖矩阵约束路由边界；支持35个起诉状模板、5类刑事…",
+      "summaryEn": "包拯.Skills你身边的专家律师团 — 专业法律咨询 + 要素式/通用起诉状起草 + 刑事专项材料辅助 + 法条分析与法规检索。flk.npc.gov.cn API实时法条优先，不可用时AI知识库降级兜底，**法条来源按四档标注可核验（已核验-flk API / 已核验-单源 / 已引-离线库 / 未核验-模型生成），交付末尾附法条/事实/金额/程序分项置信度**；以22类法律领域覆盖矩阵约束路由边界；支持35个起诉状模板、5类刑事…",
+      "category": "security",
+      "tags": [
+        "法律合规"
+      ],
+      "stats": {
+        "downloads": 587609,
+        "installs": 0,
+        "stars": 55
+      },
+      "version": "1.0.3",
+      "updatedAt": 1792594655929,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/baozheng"
+    },
+    {
+      "id": "skillhub:totorosir-workbuddy-checkin",
+      "source": "skillhub",
+      "slug": "totorosir-workbuddy-checkin",
+      "owner": "user_3a370331",
+      "name": "WorkBuddy签到助手",
+      "summary": "WorkBuddy签到助手（WorkBuddy「Buddy 加油站」每日签到自动化 Skill，接口直签，跨平台 Windows/macOS/Linux）。当用户说\"每天自动签到 / 每日签到 / 自动领 Buddy 加油站积分 / 现在签个到 / 帮我签到一次 / WorkBuddy 打卡 / 检查签到环境 / 派猫猫旅行 / 猫猫旅行 / 领旅行奖励 / 自动派猫猫 / Buddy 在旅行吗 / 推送签到结果 / 签到通知发钉钉…",
+      "summaryEn": "WorkBuddy签到助手（WorkBuddy「Buddy 加油站」每日签到自动化 Skill，接口直签，跨平台 Windows/macOS/Linux）。当用户说\"每天自动签到 / 每日签到 / 自动领 Buddy 加油站积分 / 现在签个到 / 帮我签到一次 / WorkBuddy 打卡 / 检查签到环境 / 派猫猫旅行 / 猫猫旅行 / 领旅行奖励 / 自动派猫猫 / Buddy 在旅行吗 / 推送签到结果 / 签到通知发钉钉…",
+      "category": "productivity",
+      "tags": [
+        "任务自动化"
+      ],
+      "stats": {
+        "downloads": 543784,
+        "installs": 0,
+        "stars": 41
+      },
+      "version": "3.1.7",
+      "updatedAt": 1792594659152,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/totorosir-workbuddy-checkin"
+    },
+    {
+      "id": "skillhub:wps-office-suite",
+      "source": "skillhub",
+      "slug": "wps-office-suite",
+      "owner": "user_1a470ba8",
+      "name": "WPS Office 全家桶",
+      "summary": "WPS Office 全家桶 - 四引擎（WPS/MS Office/LibreOffice/纯Python）智能识别用户已安装软件，纯Python模式支持排序/筛选/图表/公式/统计，含文档模板（代码生成）、最佳实践案例、故障排除大章（20+避坑+15 FAQ+15错误ID 统一索引）、自动重试、硬件自适应、环境自检、Skill更新提醒；v5.1新增：kingdoc云端桥接（白名单探测+配置预检+subprocess上传+差异检查）…",
+      "summaryEn": "WPS Office 全家桶 - 四引擎（WPS/MS Office/LibreOffice/纯Python）智能识别用户已安装软件，纯Python模式支持排序/筛选/图表/公式/统计，含文档模板（代码生成）、最佳实践案例、故障排除大章（20+避坑+15 FAQ+15错误ID 统一索引）、自动重试、硬件自适应、环境自检、Skill更新提醒；v5.1新增：kingdoc云端桥接（白名单探测+配置预检+subprocess上传+差异检查）…",
+      "category": "office",
+      "tags": [
+        "文档处理",
+        "流程自动化"
+      ],
+      "stats": {
+        "downloads": 519586,
+        "installs": 0,
+        "stars": 139
+      },
+      "version": "5.3.5",
+      "updatedAt": 1792594655757,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/wps-office-suite"
+    },
+    {
+      "id": "clawhub:self-improving-agent",
+      "source": "clawhub",
+      "slug": "self-improving-agent",
+      "owner": "pskoett",
+      "name": "self-improving agent",
+      "summary": "Captures and maintains learnings, errors, and corrections. Use when a command fails, the user corrects an assumption, a capability is missing, knowledge is outdated, or a better approach is found. Review relevant saved…",
+      "summaryEn": "Captures and maintains learnings, errors, and corrections. Use when a command fails, the user corrects an assumption, a capability is missing, knowledge is outdated, or a better approach is found. Review relevant saved…",
+      "category": "agent",
+      "tags": [
+        "self-improvement",
+        "context"
+      ],
+      "stats": {
+        "downloads": 487162,
+        "installs": 18496,
+        "stars": 4004
+      },
+      "version": "4.0.3",
+      "updatedAt": 1791098661833,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/pskoett/self-improving-agent"
+    },
+    {
+      "id": "skillhub:gongwen-writting-2",
+      "source": "skillhub",
+      "slug": "gongwen-writting-2",
+      "owner": "u_70fc650d",
+      "name": "秘书材料星公文写作-妙笔skill",
+      "summary": "体制内资深办公室主任+管理学博士，自学编程开发的智能公文写作Skill，让所有办公室同仁少掉头发、少加无用的班，材料一稿过关，省下的时间留给自己、享受生活！————————我们能给你带来的核心价值：1、颠覆传统写作：逻辑建模38类公文全链条，特有模板化引导问答模式，分分钟省心生成高质量大稿。--------2、替你“向上管理”：独有审稿人画像机制，文稿一键结构性修改，精准匹配审稿人画像，过稿率提升至少10倍！----------3、‌…",
+      "summaryEn": "体制内资深办公室主任+管理学博士，自学编程开发的智能公文写作Skill，让所有办公室同仁少掉头发、少加无用的班，材料一稿过关，省下的时间留给自己、享受生活！————————我们能给你带来的核心价值：1、颠覆传统写作：逻辑建模38类公文全链条，特有模板化引导问答模式，分分钟省心生成高质量大稿。--------2、替你“向上管理”：独有审稿人画像机制，文稿一键结构性修改，精准匹配审稿人画像，过稿率提升至少10倍！----------3、‌…",
+      "category": "office",
+      "tags": [
+        "文档处理",
+        "日报周报"
+      ],
+      "stats": {
+        "downloads": 402443,
+        "installs": 0,
+        "stars": 37
+      },
+      "version": "1.0.71",
+      "updatedAt": 1792594657879,
+      "security": "unknown",
+      "requiresApiKey": true,
+      "pageUrl": "https://skillhub.cn/skills/gongwen-writting-2"
+    },
+    {
+      "id": "skillhub:ppt-generator-skill",
+      "source": "skillhub",
+      "slug": "ppt-generator-skill",
+      "owner": "user_3b34947d",
+      "name": "ppt-generator-skill",
+      "summary": "智能 PPT 生成助手。根据用户描述的主题、行业、风格，自动生成漂亮的 PPT 文件。支持所有行业（商务、教育、科技、医疗、金融、创意等），支持中英文双语，支持用户提供的模板或 AI 自动配色。触发词：做PPT、生成PPT、制作幻灯片、make ppt、create presentation、帮我做个PPT。",
+      "summaryEn": "智能 PPT 生成助手。根据用户描述的主题、行业、风格，自动生成漂亮的 PPT 文件。支持所有行业（商务、教育、科技、医疗、金融、创意等），支持中英文双语，支持用户提供的模板或 AI 自动配色。触发词：做PPT、生成PPT、制作幻灯片、make ppt、create presentation、帮我做个PPT。",
+      "category": "office",
+      "tags": [
+        "PPT 生成"
+      ],
+      "stats": {
+        "downloads": 355427,
+        "installs": 1378,
+        "stars": 322
+      },
+      "version": "1.0.2",
+      "updatedAt": 1792594657640,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/ppt-generator-skill"
+    },
+    {
+      "id": "skillhub:tiangong-skill",
+      "source": "skillhub",
+      "slug": "tiangong-skill",
+      "owner": "user_741dc82b",
+      "name": "天工.skill",
+      "summary": "天工.skill(Tiangong Skill)智能体设计师。当用户需要设计、创建或优化AI智能体/Agent，或基于真实人物蒸馏思维框架创建人物Skill时使用。支持两种范式：人物蒸馏（由内而外，复刻心智模型）与岗位型专家（由外而内，定义岗位职责）。目标：创建专业领域专家角色，具备清晰人设和扎实交付力。",
+      "summaryEn": "天工.skill(Tiangong Skill)智能体设计师。当用户需要设计、创建或优化AI智能体/Agent，或基于真实人物蒸馏思维框架创建人物Skill时使用。支持两种范式：人物蒸馏（由内而外，复刻心智模型）与岗位型专家（由外而内，定义岗位职责）。目标：创建专业领域专家角色，具备清晰人设和扎实交付力。",
+      "category": "agent",
+      "tags": [
+        "Agent 框架",
+        "工作流编排"
+      ],
+      "stats": {
+        "downloads": 339652,
+        "installs": 0,
+        "stars": 43
+      },
+      "version": "1.0.9",
+      "updatedAt": 1792594656010,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/tiangong-skill"
+    },
+    {
+      "id": "skillhub:chinese-official-writing",
+      "source": "skillhub",
+      "slug": "chinese-official-writing",
+      "owner": "gongyu0918-debug",
+      "name": "中文公文写作",
+      "summary": "用于中文公文、事务性材料和新闻稿件的起草、改写、压缩、润色、审校、文种核对、去口语化、降 AI 味及 Word 格式处理，适用于机关、企事业单位、学校和新闻机构。涵盖申请、请示、报告、通知、通告、意见、决定、决议、议案、公报、命令、函、复函、批复、说明、方案、纪要、公告、公示、通报、制度、规定、办法、细则、操作规程、工作要点、总结、调研、讲话、致辞、主持词、述职、可研、审查材料、技术需求、新闻消息、编者按、新闻评论，以及采购、整改、反…",
+      "summaryEn": "用于中文公文、事务性材料、新闻稿件和新闻评论的起草、改写、压缩与复核，兼顾办公效率、内容创作、事实边界和正式表达。",
+      "category": "office",
+      "tags": [
+        "文档处理",
+        "ai-compute",
+        "chinese",
+        "content-creation",
+        "gongwen"
+      ],
+      "stats": {
+        "downloads": 329875,
+        "installs": 53,
+        "stars": 79
+      },
+      "version": "2.0.41",
+      "updatedAt": 1792594657711,
+      "security": "verified",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/chinese-official-writing"
+    },
+    {
+      "id": "skillhub:luhe-paper-free-pro",
+      "source": "skillhub",
+      "slug": "luhe-paper-free-pro",
+      "owner": "u_a3c224a2",
+      "name": "露禾论文写作助手（免费版pro）",
+      "summary": "露禾论文写作助手（免费版）：一句话生成引用可溯源、不编造的专业学术论文，按国标 GB/T 7714 插入真实文献引用，中英文 3000/5000/8000 字，一键导出 Word。说「写论文 / 帮我写论文」即可使用。",
+      "summaryEn": "露禾论文写作助手（免费版）：一句话生成引用可溯源、不编造的专业学术论文，按国标 GB/T 7714 插入真实文献引用，中英文 3000/5000/8000 字，一键导出 Word。说「写论文 / 帮我写论文」即可使用。",
+      "category": "education",
+      "tags": [
+        "科研学术"
+      ],
+      "stats": {
+        "downloads": 325919,
+        "installs": 0,
+        "stars": 17
+      },
+      "version": "1.0.2",
+      "updatedAt": 1792594655695,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/luhe-paper-free-pro"
+    },
+    {
+      "id": "skillhub:xuanzang-skill",
+      "source": "skillhub",
+      "slug": "xuanzang-skill",
+      "owner": "user_741dc82b",
+      "name": "玄奘.skill",
+      "summary": "有事就请如来佛祖！当用户明确请求pua模式，或表现出沮丧、反复失败（2次及以上）、消极被动、抱怨质量、未核实即声称完成、想要放弃，或要求更努力/换种方法时触发。常见触发词：'try harder'、'figure it out'、'stop giving up'、'you keep failing'、'加油'、'别偷懒'、'你再试试'、'为什么还不行'、'你怎么又失败了'、'又错了'、'检查下'、'完善'、'审核'、'质量太差'、'换…",
+      "summaryEn": "有事就请如来佛祖！当用户明确请求pua模式，或表现出沮丧、反复失败（2次及以上）、消极被动、抱怨质量、未核实即声称完成、想要放弃，或要求更努力/换种方法时触发。常见触发词：'try harder'、'figure it out'、'stop giving up'、'you keep failing'、'加油'、'别偷懒'、'你再试试'、'为什么还不行'、'你怎么又失败了'、'又错了'、'检查下'、'完善'、'审核'、'质量太差'、'换…",
+      "category": "agent",
+      "tags": [
+        "提示词优化",
+        "上下文管理"
+      ],
+      "stats": {
+        "downloads": 310448,
+        "installs": 0,
+        "stars": 6
+      },
+      "version": "1.0.6",
+      "updatedAt": 1792594596088,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/xuanzang-skill"
+    },
+    {
+      "id": "skillhub:luban-skill-pro",
+      "source": "skillhub",
+      "slug": "luban-skill-pro",
+      "owner": "user_741dc82b",
+      "name": "鲁班.skill",
+      "summary": "鲁班.Skill（luban Skill）：工业级智能体技能优化器。当用户提及以下关键词时调用：“优化skill”、“skill评分”、“自动优化”、“auto optimize”、“skill质量检查”、“小鲁班”、“luban”、“优化技能”、“帮我改skill”、“skill怎么样”、“提升skill质量”、“skill review”、“skill打分”。",
+      "summaryEn": "鲁班.Skill（luban Skill）：工业级智能体技能优化器。当用户提及以下关键词时调用：“优化skill”、“skill评分”、“自动优化”、“auto optimize”、“skill质量检查”、“小鲁班”、“luban”、“优化技能”、“帮我改skill”、“skill怎么样”、“提升skill质量”、“skill review”、“skill打分”。",
+      "category": "agent",
+      "tags": [
+        "工作流编排",
+        "提示词优化",
+        "工具调用"
+      ],
+      "stats": {
+        "downloads": 305673,
+        "installs": 0,
+        "stars": 86
+      },
+      "version": "1.0.6",
+      "updatedAt": 1792594656707,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/luban-skill-pro"
+    },
+    {
+      "id": "skillhub:kdocs-skill",
+      "source": "skillhub",
+      "slug": "kdocs-skill",
+      "owner": "user_5ea84866",
+      "name": "kdocs skill",
+      "summary": "操作金山文档（WPS 云文档 / Kdocs / 365.kdocs.cn / www.kdocs.cn）云文档的官方 Skill。核心能力覆盖云端新建、读取、编辑、搜索、分享、整理在线文档（智能文档、Word、Excel、PDF、PPT、演示文稿、智能表格、多维表格）及个人知识库。当用户的任务涉及云文档操作时使用，包括但不限于：写周报/日报/工作汇报、处理合同/发票、创建报名表/登记表、网页剪藏、接龙转表格、信息收集、文档总结与内容…",
+      "summaryEn": "操作金山文档（WPS 云文档 / Kdocs / 365.kdocs.cn / www.kdocs.cn）云文档的官方 Skill。核心能力覆盖云端新建、读取、编辑、搜索、分享、整理在线文档（智能文档、Word、Excel、PDF、PPT、演示文稿、智能表格、多维表格）及个人知识库。当用户的任务涉及云文档操作时使用，包括但不限于：写周报/日报/工作汇报、处理合同/发票、创建报名表/登记表、网页剪藏、接龙转表格、信息收集、文档总结与内容…",
+      "category": "office",
+      "tags": [
+        "文档处理",
+        "PPT 生成",
+        "PDF 处理"
+      ],
+      "stats": {
+        "downloads": 289505,
+        "installs": 2029,
+        "stars": 128
+      },
+      "version": "2.7.1",
+      "updatedAt": 1792594594971,
+      "security": "unknown",
+      "requiresApiKey": true,
+      "pageUrl": "https://skillhub.cn/skills/kdocs-skill"
+    },
+    {
+      "id": "clawhub:skill-vetter",
+      "source": "clawhub",
+      "slug": "skill-vetter",
+      "owner": "spclaudehome",
+      "name": "Skill Vetter",
+      "summary": "Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+      "summaryEn": "Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+      "category": "dev",
+      "tags": [
+        "GitHub",
+        "Permission"
+      ],
+      "stats": {
+        "downloads": 278795,
+        "installs": 12259,
+        "stars": 1308
+      },
+      "version": "1.0.0",
+      "updatedAt": 1789594554485,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/spclaudehome/skill-vetter"
+    },
+    {
+      "id": "skillhub:dknowc-official-doc-writer-skillhub",
+      "source": "skillhub",
+      "slug": "dknowc-official-doc-writer-skillhub",
+      "owner": "user_c9faff27",
+      "name": "深知公文写作",
+      "summary": "深知公文写作，面向政府机关、企事业单位的办公室、文秘与材料岗，把零散的想法、会议记录、调研资料和初稿，写成结构清楚、表述稳妥、格式规范、拿起来就能用的正式文稿——每一处政策依据都能点开原文核对，全程可溯源到权威部门发布的规范性文件。 能写：只要用户说\"帮我写个通知／请示／报告／函／会议纪要\"，或要方案、总结、管理办法、调研报告、经验材料、汇报材料、讲话稿，共 20 余种文种，各自按对应文种规范起草，一次成稿、可直接修改。…",
+      "summaryEn": "深知公文写作，是面向单位办公室、综合岗、文秘、材料岗和企事业单位用户的正式材料写作助手。核心用于公文写作、正式文书起草、汇报材料整理、讲话稿撰写、工作总结和方案报告生成，帮助用户把零散想法、会议记录、工作素材、调研资料或初稿，整理成结构清楚、表达稳妥、逻辑完整、可直接修改使用的正式文稿。支持通知、请示、报告、函、复函、批复、会议纪要、通报、通告、公告、意见、方案、总结、管理办法、汇报材料、发言稿、讲话稿、调研报告、经验材料等常见文种和…",
+      "category": "office",
+      "tags": [
+        "文档处理"
+      ],
+      "stats": {
+        "downloads": 276274,
+        "installs": 22,
+        "stars": 73
+      },
+      "version": "3.8.2",
+      "updatedAt": 1792594648026,
+      "security": "unknown",
+      "requiresApiKey": true,
+      "pageUrl": "https://skillhub.cn/skills/dknowc-official-doc-writer-skillhub"
+    },
+    {
+      "id": "skillhub:pdf-image-text-extractor",
+      "source": "skillhub",
+      "slug": "pdf-image-text-extractor",
+      "owner": "user_5f9c21aa",
+      "name": "PDF和图片文字提取",
+      "summary": "从图片或 PDF 文档中识别并提取文字内容，支持多种图片格式和 PDF 文件，自动判断是否包含文字并保留原始格式输出结构化结果；v2.1 采用零额外依赖方案：扫描版 PDF 自动渲染为图片交由 AI 视觉识别（无需 tesseract/rapidocr）、表格用 pymupdf 内置 find_tables 结构化提取（无需 pdfplumber）、批量处理目录（PDF+图片一次性提取）；当用户需要从图片或 PDF 提取文字、进行…",
+      "summaryEn": "从图片或 PDF 文档中识别并提取文字内容，支持多种图片格式和 PDF 文件，自动判断是否包含文字并保留原始格式输出结构化结果；v2.1 采用零额外依赖方案：扫描版 PDF 自动渲染为图片交由 AI 视觉识别（无需 tesseract/rapidocr）、表格用 pymupdf 内置 find_tables 结构化提取（无需 pdfplumber）、批量处理目录（PDF+图片一次性提取）；当用户需要从图片或 PDF 提取文字、进行…",
+      "category": "office",
+      "tags": [
+        "文档处理",
+        "PDF 处理"
+      ],
+      "stats": {
+        "downloads": 259865,
+        "installs": 378,
+        "stars": 190
+      },
+      "version": "1.0.13",
+      "updatedAt": 1792594657899,
+      "security": "unknown",
+      "requiresApiKey": true,
+      "pageUrl": "https://skillhub.cn/skills/pdf-image-text-extractor"
+    },
+    {
+      "id": "skillhub:tencent-meeting-mcp",
+      "source": "skillhub",
+      "slug": "tencent-meeting-mcp",
+      "owner": "u_d126ecee",
+      "name": "腾讯会议MCP",
+      "summary": "腾讯会议：会议管理与音视频协作助手。预约/创建/修改/取消会议、查询会议详情与会议号转换、查看参会成员/受邀人/等候室成员、管理会中等候室成员、查询用户会议列表（即将开始/进行中/已结束）、搜索会议列表、导出参会成员统计与获取异步任务结果、查询录制列表与播放地址、搜索录制文件、获取转写全文/段落/搜索、获取AI智能纪要（支持多语言翻译）、搜索与查询元宝纪要（支持关键词/时间过滤、获取概览/要点/待办/滚动总结）、录制权限申请（预览+提…",
+      "summaryEn": "腾讯会议：会议管理与音视频协作助手。预约/创建/修改/取消会议、查询会议详情与会议号转换、查看参会成员/受邀人/等候室成员、管理会中等候室成员、查询用户会议列表（即将开始/进行中/已结束）、搜索会议列表、导出参会成员统计与获取异步任务结果、查询录制列表与播放地址、搜索录制文件、获取转写全文/段落/搜索、获取AI智能纪要（支持多语言翻译）、搜索与查询元宝纪要（支持关键词/时间过滤、获取概览/要点/待办/滚动总结）、录制权限申请（预览+提…",
+      "category": "office",
+      "tags": [
+        "会议纪要",
+        "流程自动化"
+      ],
+      "stats": {
+        "downloads": 237683,
+        "installs": 0,
+        "stars": 67
+      },
+      "version": "1.0.16",
+      "updatedAt": 1792594656799,
+      "security": "unknown",
+      "requiresApiKey": true,
+      "pageUrl": "https://skillhub.cn/skills/tencent-meeting-mcp"
+    },
+    {
+      "id": "clawhub:self-improving",
+      "source": "clawhub",
+      "slug": "self-improving",
+      "owner": "ivangdavila",
+      "name": "Self-Improving + Proactive Agent",
+      "summary": "Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when...",
+      "summaryEn": "Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when...",
+      "category": "agent",
+      "tags": [
+        "Self Improving",
+        "Learning"
+      ],
+      "stats": {
+        "downloads": 212405,
+        "installs": 7394,
+        "stars": 1299
+      },
+      "version": "1.2.16",
+      "updatedAt": 1778491556797,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/ivangdavila/self-improving"
+    },
+    {
+      "id": "clawhub:github",
+      "source": "clawhub",
+      "slug": "github",
+      "owner": "steipete",
+      "name": "Github",
+      "summary": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",
+      "summaryEn": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",
+      "category": "dev",
+      "tags": [
+        "GitHub"
+      ],
+      "stats": {
+        "downloads": 201882,
+        "installs": 7654,
+        "stars": 671
+      },
+      "version": "1.0.0",
+      "updatedAt": 1781268517834,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/github"
+    },
+    {
+      "id": "clawhub:ontology",
+      "source": "clawhub",
+      "slug": "ontology",
+      "owner": "oswalpalash",
+      "name": "ontology",
+      "summary": "Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
+      "summaryEn": "Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
+      "category": "agent",
+      "tags": [
+        "Agent Memory"
+      ],
+      "stats": {
+        "downloads": 200492,
+        "installs": 7332,
+        "stars": 660
+      },
+      "version": "1.0.4",
+      "updatedAt": 1778485852489,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/oswalpalash/ontology"
+    },
+    {
+      "id": "clawhub:gog",
+      "source": "clawhub",
+      "slug": "gog",
+      "owner": "steipete",
+      "name": "Gog",
+      "summary": "Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.",
+      "summaryEn": "Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.",
+      "category": "productivity",
+      "tags": [
+        "Gmail",
+        "Calendar",
+        "Docs"
+      ],
+      "stats": {
+        "downloads": 197581,
+        "installs": 5495,
+        "stars": 953
+      },
+      "version": "1.0.0",
+      "updatedAt": 1789594554485,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/gog"
+    },
+    {
+      "id": "skillhub:find-skill-skillhub",
+      "source": "skillhub",
+      "slug": "find-skill-skillhub",
+      "owner": "user_290ac21c",
+      "name": "find skill",
+      "summary": "在 SkillHub 平台查找/搜索 Skill 技能。基于 skills 列表接口，支持关键词分词搜索、一级标签（一级分类）筛选、以及二者组合检索。当用户说『找个 xxx 技能』『有没有处理 PDF 的 skill』『SkillHub 上搜一下 xxx』『按分类看技能』『办公效率类有哪些技能』『推荐一个做数据分析的 skill』『这个需求有现成技能吗』等需要在 SkillHub 上发现/检索/推荐 Skill 的场景时使用本技能。",
+      "summaryEn": "在 SkillHub 平台查找/搜索 Skill 技能。基于 skills 列表接口，支持关键词分词搜索、一级标签（一级分类）筛选、以及二者组合检索。当用户说『找个 xxx 技能』『有没有处理 PDF 的 skill』『SkillHub 上搜一下 xxx』『按分类看技能』『办公效率类有哪些技能』『推荐一个做数据分析的 skill』『这个需求有现成技能吗』等需要在 SkillHub 上发现/检索/推荐 Skill 的场景时使用本技能。",
+      "category": "agent",
+      "tags": [
+        "工作流编排",
+        "工具调用"
+      ],
+      "stats": {
+        "downloads": 191030,
+        "installs": 0,
+        "stars": 251
+      },
+      "version": "1.0.2",
+      "updatedAt": 1792594645905,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/find-skill-skillhub"
+    },
+    {
+      "id": "clawhub:skillscan",
+      "source": "clawhub",
+      "slug": "skillscan",
+      "owner": "tokauthai",
+      "name": "SkillScan",
+      "summary": "Security gate for skills. Every new skill MUST pass SkillScan before use. Activate on any install, load, add, evaluate, or safety question about a skill. On...",
+      "summaryEn": "Security gate for skills. Every new skill MUST pass SkillScan before use. Activate on any install, load, add, evaluate, or safety question about a skill. On...",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "stats": {
+        "downloads": 182781,
+        "installs": 5959,
+        "stars": 41
+      },
+      "version": "1.1.6",
+      "updatedAt": 1779075607591,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/tokauthai/skillscan"
+    },
+    {
+      "id": "clawhub:proactive-agent",
+      "source": "clawhub",
+      "slug": "proactive-agent",
+      "owner": "halthelobster",
+      "name": "Proactive Agent",
+      "summary": "Transform AI agents from task-followers into proactive partners that anticipate needs and continuously improve. Now with WAL Protocol, Working Buffer, Autonomous Crons, and battle-tested patterns. Part of the Hal Stack…",
+      "summaryEn": "Transform AI agents from task-followers into proactive partners that anticipate needs and continuously improve. Now with WAL Protocol, Working Buffer, Autonomous Crons, and battle-tested patterns. Part of the Hal Stack…",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "stats": {
+        "downloads": 177908,
+        "installs": 7202,
+        "stars": 831
+      },
+      "version": "3.1.0",
+      "updatedAt": 1779076486067,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/halthelobster/proactive-agent"
+    },
+    {
+      "id": "skillhub:agently-mail",
+      "source": "skillhub",
+      "slug": "agently-mail",
+      "owner": "u_d95b6787",
+      "name": "Agently Mail",
+      "summary": "Agently Mail 是 QQ 邮箱团队为 Agent 打造的专属邮箱服务，与个人邮箱隔离，原生适配 Agent，助力你安全、高效地使用 Agent 收发邮件。 Agently Mail 支持微信登录授权、读取邮件、搜索邮件、发送邮件、回复、转发、移动到已删除、上传和下载附件。 Agently Mail 官网 https://agent.qq.com",
+      "summaryEn": "Agently Mail 是 QQ 邮箱团队为 Agent 打造的专属邮箱服务，与个人邮箱隔离，原生适配 Agent，助力你安全、高效地使用 Agent 收发邮件。 Agently Mail 支持微信登录授权、读取邮件、搜索邮件、发送邮件、回复、转发、移动到已删除、上传和下载附件。 Agently Mail 官网 https://agent.qq.com",
+      "category": "agent",
+      "tags": [
+        "工具调用"
+      ],
+      "stats": {
+        "downloads": 177849,
+        "installs": 0,
+        "stars": 84
+      },
+      "version": "1.0.13",
+      "updatedAt": 1792594655867,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/agently-mail"
+    },
+    {
+      "id": "skillhub:xique-tender-pay",
+      "source": "skillhub",
+      "slug": "xique-tender-pay",
+      "owner": "u_84923c62",
+      "name": "招标文件解读【喜鹊标书】",
+      "summary": "喜鹊标书解读，支持上传 PDF、Word 招标文件，快速梳理项目要求、资格条件、评分标准、废标风险及投标准备事项。一次付费，即可获得深度解析报告、投标文件完整框架、商务资料清单三份 Word 文件，并在对话中查看重点摘要、围绕报告继续提问。无需注册喜鹊账号或手动配置 API Key，通过微信授权按次支付，让读标、理清要求和准备材料更高效。",
+      "summaryEn": "喜鹊标书解读，支持上传 PDF、Word 招标文件，快速梳理项目要求、资格条件、评分标准、废标风险及投标准备事项。一次付费，即可获得深度解析报告、投标文件完整框架、商务资料清单三份 Word 文件，并在对话中查看重点摘要、围绕报告继续提问。无需注册喜鹊账号或手动配置 API Key，通过微信授权按次支付，让读标、理清要求和准备材料更高效。",
+      "category": "office",
+      "tags": [
+        "文档处理",
+        "日报周报"
+      ],
+      "stats": {
+        "downloads": 171524,
+        "installs": 0,
+        "stars": 1
+      },
+      "version": "1.0.0",
+      "updatedAt": 1792594644696,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/xique-tender-pay"
+    },
+    {
+      "id": "skillhub:666-v2",
+      "source": "skillhub",
+      "slug": "666-v2",
+      "owner": "user_f9ab891e",
+      "name": "ppt",
+      "summary": "生成专业PPT演示文稿。当用户要求创建PPT、幻灯片、演示文稿时使用。适用于工作汇报、项目展示、商业计划、培训课件等场景。",
+      "summaryEn": "生成专业PPT演示文稿。当用户要求创建PPT、幻灯片、演示文稿时使用。适用于工作汇报、项目展示、商业计划、培训课件等场景。",
+      "category": "office",
+      "tags": [
+        "PPT 生成"
+      ],
+      "stats": {
+        "downloads": 163858,
+        "installs": 0,
+        "stars": 43
+      },
+      "version": "1.0.0",
+      "updatedAt": 1792594657941,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/666-v2"
+    },
+    {
+      "id": "clawhub:multi-search-engine",
+      "source": "clawhub",
+      "slug": "multi-search-engine",
+      "owner": "gpyangyoujun",
+      "name": "Multi Search Engine",
+      "summary": "Multi search engine integration with 16 engines (7 CN + 9 Global). Supports advanced search operators, time filters, site search, privacy engines, and Wolfra...",
+      "summaryEn": "Multi search engine integration with 16 engines (7 CN + 9 Global). Supports advanced search operators, time filters, site search, privacy engines, and Wolfra...",
+      "category": "search",
+      "tags": [
+        "Privacy"
+      ],
+      "stats": {
+        "downloads": 163727,
+        "installs": 5530,
+        "stars": 764
+      },
+      "version": "2.1.3",
+      "updatedAt": 1778486017068,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/gpyangyoujun/multi-search-engine"
+    },
+    {
+      "id": "skillhub:excel-auto-zh",
+      "source": "skillhub",
+      "slug": "excel-auto-zh",
+      "owner": "user_7871dce1",
+      "name": "Excel/WPS 表格自动化工具",
+      "summary": "Excel / WPS 表格自动化处理工具。用 openpyxl 创建格式专业的报表、解析含宏的复杂 xlsm 文件、批量合并多工作表数据。适用于财务报表生成、考勤汇总、销售数据整理、人力资源 批量处理等场景。解决\"Excel重复操作太耗时\"、\"WPS自动化\"、\"批量处理表格\"、 \"xlsm文件解析\"等问题。兼容 Windows / macOS，WPS Office 与 Microsoft Excel 均适用。",
+      "summaryEn": "Excel / WPS 表格自动化处理工具。用 openpyxl 创建格式专业的报表、解析含宏的复杂 xlsm 文件、批量合并多工作表数据。适用于财务报表生成、考勤汇总、销售数据整理、人力资源 批量处理等场景。解决\"Excel重复操作太耗时\"、\"WPS自动化\"、\"批量处理表格\"、 \"xlsm文件解析\"等问题。兼容 Windows / macOS，WPS Office 与 Microsoft Excel 均适用。",
+      "category": "office",
+      "tags": [
+        "表格处理",
+        "流程自动化"
+      ],
+      "stats": {
+        "downloads": 162316,
+        "installs": 0,
+        "stars": 74
+      },
+      "version": "1.0.0",
+      "updatedAt": 1792594647805,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/excel-auto-zh"
+    },
+    {
+      "id": "skillhub:course-video-studio",
+      "source": "skillhub",
+      "slug": "course-video-studio",
+      "owner": "u_319b171b",
+      "name": "课程视频·数字人讲师",
+      "summary": "AI课程视频工作室把写好的讲稿和一张授权讲师人像，做成数字人口播课程的课程视频和课程旁白。先把每节课的讲稿配成旁白，再用数字人讲师录成讲师口播，交付可直接发布的培训视频、培训口播视频、网课视频和课件视频。",
+      "summaryEn": "AI课程视频工作室把写好的讲稿和一张授权讲师人像，做成数字人口播课程的课程视频和课程旁白。先把每节课的讲稿配成旁白，再用数字人讲师录成讲师口播，交付可直接发布的培训视频、培训口播视频、网课视频和课件视频。",
+      "category": "education",
+      "tags": [
+        "课程设计",
+        "教学辅助"
+      ],
+      "stats": {
+        "downloads": 158926,
+        "installs": 0,
+        "stars": 6
+      },
+      "version": "0.2.8",
+      "updatedAt": 1792594272568,
+      "security": "unknown",
+      "requiresApiKey": true,
+      "pageUrl": "https://skillhub.cn/skills/course-video-studio"
+    },
+    {
+      "id": "clawhub:agent-browser-clawdbot",
+      "source": "clawhub",
+      "slug": "agent-browser-clawdbot",
+      "owner": "matrixy",
+      "name": "Agent Browser",
+      "summary": "Headless browser automation CLI optimized for AI agents with accessibility tree snapshots and ref-based element selection",
+      "summaryEn": "Headless browser automation CLI optimized for AI agents with accessibility tree snapshots and ref-based element selection",
+      "category": "search",
+      "tags": [
+        "Browser Automation"
+      ],
+      "stats": {
+        "downloads": 158348,
+        "installs": 1607,
+        "stars": 463
+      },
+      "version": "0.1.0",
+      "updatedAt": 1778485848771,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/matrixy/agent-browser-clawdbot"
+    },
+    {
+      "id": "skillhub:ai-ppt-skill",
+      "source": "skillhub",
+      "slug": "ai-ppt-skill",
+      "owner": "user_741c61d8",
+      "name": "PPT master",
+      "summary": "专业PPT生成技能，支持20种图表类型、8大类别温和色系、5阶段交互工作流，生成可直接编辑的.pptx文件",
+      "summaryEn": "专业PPT生成技能，支持20种图表类型、8大类别温和色系、5阶段交互工作流，生成可直接编辑的.pptx文件",
+      "category": "office",
+      "tags": [
+        "PPT 生成",
+        "流程自动化"
+      ],
+      "stats": {
+        "downloads": 149299,
+        "installs": 0,
+        "stars": 14
+      },
+      "version": "1.0.0",
+      "updatedAt": 1792594657492,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/ai-ppt-skill"
+    },
+    {
+      "id": "skillhub:gongwenformat-pro",
+      "source": "skillhub",
+      "slug": "gongwenformat-pro",
+      "owner": "user_2ecc1bb2",
+      "name": "公文排版",
+      "summary": "党政机关公文标准排版Pro版(GB/T 9704-2012)。将Markdown/TXT/DOCX文本转换为符合国标排版的Word文档。当用户提到以下任何关键词或场景时必须使用此技能:公文排版、标准格式、Word文件、排版、写成Word、生成docx、发文格式、材料排版、红头文件、正式文件、排版成Word、帮我排个版、公文格式、公文、政府文件、机关公文、通知格式、请示格式、报告格式、函的格式、会议纪要排版、发言稿排版、研讨材料排版、汇…",
+      "summaryEn": "党政机关公文标准排版Pro版(GB/T 9704-2012)。将Markdown/TXT/DOCX文本转换为符合国标排版的Word文档。当用户提到以下任何关键词或场景时必须使用此技能:公文排版、标准格式、Word文件、排版、写成Word、生成docx、发文格式、材料排版、红头文件、正式文件、排版成Word、帮我排个版、公文格式、公文、政府文件、机关公文、通知格式、请示格式、报告格式、函的格式、会议纪要排版、发言稿排版、研讨材料排版、汇…",
+      "category": "office",
+      "tags": [
+        "文档处理"
+      ],
+      "stats": {
+        "downloads": 144109,
+        "installs": 239,
+        "stars": 134
+      },
+      "version": "1.4.0",
+      "updatedAt": 1792594647592,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/gongwenformat-pro"
+    },
+    {
+      "id": "skillhub:course-narration-studio",
+      "source": "skillhub",
+      "slug": "course-narration-studio",
+      "owner": "u_319b171b",
+      "name": "课程配音工作室",
+      "summary": "课程配音工作室把课件整理成可朗读的讲稿，为每个章节录制老师声音的 AI课程配音和课程旁白，交付可直接配幻灯片的网课配音、课程音频、培训旁白和知识付费音频。",
+      "summaryEn": "课程配音工作室把课件整理成可朗读的讲稿，为每个章节录制老师声音的 AI课程配音和课程旁白，交付可直接配幻灯片的网课配音、课程音频、培训旁白和知识付费音频。",
+      "category": "education",
+      "tags": [
+        "教学辅助"
+      ],
+      "stats": {
+        "downloads": 142211,
+        "installs": 0,
+        "stars": 4
+      },
+      "version": "0.2.7",
+      "updatedAt": 1792593841727,
+      "security": "unknown",
+      "requiresApiKey": true,
+      "pageUrl": "https://skillhub.cn/skills/course-narration-studio"
+    },
+    {
+      "id": "skillhub:humanize-ai-text",
+      "source": "skillhub",
+      "slug": "humanize-ai-text",
+      "owner": "user_481397b5",
+      "name": "去AI味改写·论文降重｜AI文本自然化",
+      "summary": "论文改写与降AI率工具：对论文、期刊稿做去AI味改写、学术改写、段落改写与风格自然化—— AI 味自查报告、模型残留清理、深改指引与句级优先级计划，全程守住数字、DOI、PMID、年份与 术语（改文不改动数据）。check_stats 查数字打架，check_terms 查术语混用（八域变体组）； 支持中英双语与 .docx/.pdf 输入，--batch 支持分章跨文件核对。…",
+      "summaryEn": "论文改写与降AI率工具：对论文、期刊稿做去AI味改写、学术改写、段落改写与风格自然化—— AI 味自查报告、模型残留清理、深改指引与句级优先级计划，全程守住数字、DOI、PMID、年份与 术语（改文不改动数据）。check_stats 查数字打架，check_terms 查术语混用（八域变体组）； 支持中英双语与 .docx/.pdf 输入，--batch 支持分章跨文件核对。…",
+      "category": "education",
+      "tags": [
+        "内容改写",
+        "aigc检测",
+        "ai检测",
+        "gptzero",
+        "sci"
+      ],
+      "stats": {
+        "downloads": 138792,
+        "installs": 0,
+        "stars": 10
+      },
+      "version": "4.2.0",
+      "updatedAt": 1792594567784,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://skillhub.cn/skills/humanize-ai-text"
+    },
+    {
+      "id": "clawhub:admapix",
+      "source": "clawhub",
+      "slug": "admapix",
+      "owner": "fly0pants",
+      "name": "AdMapix",
+      "summary": "AdMapix raw data layer for ad creatives, apps, rankings, downloads/revenue, and market metadata. Returns structured JSON from the AdMapix API; the calling ag...",
+      "summaryEn": "AdMapix raw data layer for ad creatives, apps, rankings, downloads/revenue, and market metadata. Returns structured JSON from the AdMapix API; the calling ag...",
+      "category": "data",
+      "tags": [
+        "ad-intelligence",
+        "app-analytics",
+        "ad-creatives",
+        "ad-spy",
+        "advertising"
+      ],
+      "stats": {
+        "downloads": 134012,
+        "installs": 4287,
+        "stars": 296
+      },
+      "version": "1.0.30",
+      "updatedAt": 1781852959124,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/fly0pants/admapix"
+    },
+    {
+      "id": "clawhub:humanizer",
+      "source": "clawhub",
+      "slug": "humanizer",
+      "owner": "biostartechnology",
+      "name": "Humanizer",
+      "summary": "Remove signs of AI-generated writing from text. Use when editing or reviewing text to make it sound more natural and human-written. Based on Wikipedia's comprehensive \"Signs of AI writing\" guide. Detects and fixes…",
+      "summaryEn": "Remove signs of AI-generated writing from text. Use when editing or reviewing text to make it sound more natural and human-written. Based on Wikipedia's comprehensive \"Signs of AI writing\" guide. Detects and fixes…",
+      "category": "writing",
+      "tags": [
+        "writing"
+      ],
+      "stats": {
+        "downloads": 133068,
+        "installs": 4700,
+        "stars": 720
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485848771,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/biostartechnology/humanizer"
+    },
+    {
+      "id": "clawhub:nano-pdf",
+      "source": "clawhub",
+      "slug": "nano-pdf",
+      "owner": "steipete",
+      "name": "Nano Pdf",
+      "summary": "Edit PDFs with natural-language instructions using the nano-pdf CLI.",
+      "summaryEn": "Edit PDFs with natural-language instructions using the nano-pdf CLI.",
+      "category": "office",
+      "tags": [
+        "PDF"
+      ],
+      "stats": {
+        "downloads": 122949,
+        "installs": 4381,
+        "stars": 273
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/nano-pdf"
+    },
+    {
+      "id": "clawhub:obsidian",
+      "source": "clawhub",
+      "slug": "obsidian",
+      "owner": "steipete",
+      "name": "Obsidian",
+      "summary": "Work with Obsidian vaults (plain Markdown notes) and automate via obsidian-cli.",
+      "summaryEn": "Work with Obsidian vaults (plain Markdown notes) and automate via obsidian-cli.",
+      "category": "productivity",
+      "tags": [
+        "productivity"
+      ],
+      "stats": {
+        "downloads": 111931,
+        "installs": 4125,
+        "stars": 462
+      },
+      "version": "1.0.0",
+      "updatedAt": 1779137320034,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/obsidian"
+    },
+    {
+      "id": "skillhub:handwritten-newspaper-template-generator-showapi",
+      "source": "skillhub",
+      "slug": "handwritten-newspaper-template-generator-showapi",
+      "owner": "u_b7ff7d1b",
+      "name": "手抄报线稿模板生成-万维易源",
+      "summary": "根据主题、年级与画面比例一键生成符合A4打印标准的手抄报黑白线稿模板；自动解析合规约束（如国庆节禁用国旗国徽）与年级排版策略，生成高清线稿图并适配A4打印尺寸，孩子只需涂色和填字即可完成；适用于家长辅导作业、教师课堂素材、节日主题手抄报创作、打印涂色模板场景",
+      "summaryEn": "根据主题、年级与画面比例一键生成符合A4打印标准的手抄报黑白线稿模板；自动解析合规约束（如国庆节禁用国旗国徽）与年级排版策略，生成高清线稿图并适配A4打印尺寸，孩子只需涂色和填字即可完成；适用于家长辅导作业、教师课堂素材、节日主题手抄报创作、打印涂色模板场景",
+      "category": "education",
+      "tags": [
+        "课程设计",
+        "教学辅助"
+      ],
+      "stats": {
+        "downloads": 110971,
+        "installs": 0,
+        "stars": 5
+      },
+      "version": "1.0.1",
+      "updatedAt": 1792594596713,
+      "security": "unknown",
+      "requiresApiKey": true,
+      "pageUrl": "https://skillhub.cn/skills/handwritten-newspaper-template-generator-showapi"
+    },
+    {
+      "id": "clawhub:openclaw-tavily-search",
+      "source": "clawhub",
+      "slug": "openclaw-tavily-search",
+      "owner": "jacky1n7",
+      "name": "Tavily Search",
+      "summary": "Search the public web through Tavily and return structured results with URLs and snippets. Use when an agent needs current information, source discovery, link lookup, news or finance search, or a fallback for…",
+      "summaryEn": "Search the public web through Tavily and return structured results with URLs and snippets. Use when an agent needs current information, source discovery, link lookup, news or finance search, or a fallback for…",
+      "category": "search",
+      "tags": [
+        "search-the-web",
+        "web-search"
+      ],
+      "stats": {
+        "downloads": 108949,
+        "installs": 3612,
+        "stars": 268
+      },
+      "version": "0.2.1",
+      "updatedAt": 1789594554485,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/jacky1n7/openclaw-tavily-search"
+    },
+    {
+      "id": "clawhub:notion",
+      "source": "clawhub",
+      "slug": "notion",
+      "owner": "steipete",
+      "name": "Notion",
+      "summary": "Notion API for creating and managing pages, databases, and blocks.",
+      "summaryEn": "Notion API for creating and managing pages, databases, and blocks.",
+      "category": "productivity",
+      "tags": [
+        "Notion"
+      ],
+      "stats": {
+        "downloads": 104677,
+        "installs": 3278,
+        "stars": 273
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/notion"
+    },
+    {
+      "id": "clawhub:skill-creator",
+      "source": "clawhub",
+      "slug": "skill-creator",
+      "owner": "chindden",
+      "name": "Skill Creator",
+      "summary": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool…",
+      "summaryEn": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool…",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "stats": {
+        "downloads": 103076,
+        "installs": 3512,
+        "stars": 337
+      },
+      "version": "0.1.0",
+      "updatedAt": 1778987225295,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/chindden/skill-creator"
+    },
+    {
+      "id": "clawhub:pollyreach",
+      "source": "clawhub",
+      "slug": "pollyreach",
+      "owner": "pollyreach",
+      "name": "PollyReach",
+      "summary": "PollyReach gives every AI agent a phone number and the ability to get things done over the phone — finding contacts, making calls, and completing tasks. Just...",
+      "summaryEn": "PollyReach gives every AI agent a phone number and the ability to get things done over the phone — finding contacts, making calls, and completing tasks. Just...",
+      "category": "productivity",
+      "tags": [
+        "Pollyreach",
+        "Phone",
+        "Customer Service",
+        "Booking",
+        "Incoming Call"
+      ],
+      "stats": {
+        "downloads": 101929,
+        "installs": 3216,
+        "stars": 56
+      },
+      "version": "1.0.3",
+      "updatedAt": 1778492287825,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/pollyreach/pollyreach"
+    },
+    {
+      "id": "clawhub:auto-updater",
+      "source": "clawhub",
+      "slug": "auto-updater",
+      "owner": "maximeprades",
+      "name": "Auto-Updater Skill",
+      "summary": "Automatically update Clawdbot and all installed skills once daily. Runs via cron, checks for updates, applies them, and messages the user with a summary of what changed.",
+      "summaryEn": "Automatically update Clawdbot and all installed skills once daily. Runs via cron, checks for updates, applies them, and messages the user with a summary of what changed.",
+      "category": "other",
+      "tags": [
+        "Cron"
+      ],
+      "stats": {
+        "downloads": 100694,
+        "installs": 3267,
+        "stars": 447
+      },
+      "version": "1.0.0",
+      "updatedAt": 1779144854317,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/maximeprades/auto-updater"
+    },
+    {
+      "id": "clawhub:word-docx",
+      "source": "clawhub",
+      "slug": "word-docx",
+      "owner": "ivangdavila",
+      "name": "Word / DOCX",
+      "summary": "Create, inspect, and edit Microsoft Word documents and DOCX files with reliable styles, numbering, tracked changes, tables, sections, and compatibility check...",
+      "summaryEn": "Create, inspect, and edit Microsoft Word documents and DOCX files with reliable styles, numbering, tracked changes, tables, sections, and compatibility check...",
+      "category": "office",
+      "tags": [
+        "Document"
+      ],
+      "stats": {
+        "downloads": 95316,
+        "installs": 2962,
+        "stars": 355
+      },
+      "version": "1.0.2",
+      "updatedAt": 1789594554485,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/ivangdavila/word-docx"
+    },
+    {
+      "id": "clawhub:baidu-search",
+      "source": "clawhub",
+      "slug": "baidu-search",
+      "owner": "ide-rea",
+      "name": "Baidu web search",
+      "summary": "Search the web using Baidu AI Search Engine (BDSE). Use for live information, documentation, or research topics.",
+      "summaryEn": "Search the web using Baidu AI Search Engine (BDSE). Use for live information, documentation, or research topics.",
+      "category": "search",
+      "tags": [
+        "Search The Web",
+        "Documentation"
+      ],
+      "stats": {
+        "downloads": 93651,
+        "installs": 3209,
+        "stars": 219
+      },
+      "version": "1.1.4",
+      "updatedAt": 1778486029224,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/ide-rea/baidu-search"
+    },
+    {
+      "id": "clawhub:sonoscli",
+      "source": "clawhub",
+      "slug": "sonoscli",
+      "owner": "steipete",
+      "name": "Sonoscli",
+      "summary": "Control Sonos speakers (discover/status/play/volume/group).",
+      "summaryEn": "Control Sonos speakers (discover/status/play/volume/group).",
+      "category": "media",
+      "tags": [
+        "media"
+      ],
+      "stats": {
+        "downloads": 90228,
+        "installs": 2841,
+        "stars": 56
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/sonoscli"
+    },
+    {
+      "id": "clawhub:openai-whisper",
+      "source": "clawhub",
+      "slug": "openai-whisper",
+      "owner": "steipete",
+      "name": "Openai Whisper",
+      "summary": "Local speech-to-text with the Whisper CLI (no API key).",
+      "summaryEn": "Local speech-to-text with the Whisper CLI (no API key).",
+      "category": "media",
+      "tags": [
+        "Speech-to-Text"
+      ],
+      "stats": {
+        "downloads": 89584,
+        "installs": 2977,
+        "stars": 341
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/openai-whisper"
+    },
+    {
+      "id": "clawhub:api-gateway",
+      "source": "clawhub",
+      "slug": "api-gateway",
+      "owner": "byungkyu",
+      "name": "API Gateway",
+      "summary": "Call third-party APIs through the Maton gateway, which injects the credential for an app the user has already connected. Use this skill when the user names a connected app and a concrete action in it - read a mailbox…",
+      "summaryEn": "Call third-party APIs through the Maton gateway, which injects the credential for an app the user has already connected. Use this skill when the user names a connected app and a concrete action in it - read a mailbox…",
+      "category": "dev",
+      "tags": [
+        "dev"
+      ],
+      "stats": {
+        "downloads": 87780,
+        "installs": 2503,
+        "stars": 395
+      },
+      "version": "1.2.29",
+      "updatedAt": 1790971013620,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/byungkyu/api-gateway"
+    },
+    {
+      "id": "clawhub:automation-workflows",
+      "source": "clawhub",
+      "slug": "automation-workflows",
+      "owner": "jk-0001",
+      "name": "Automation Workflows",
+      "summary": "Design and implement automation workflows to save time and scale operations as a solopreneur. Use when identifying repetitive tasks to automate, building workflows across tools, setting up triggers and actions, or…",
+      "summaryEn": "Design and implement automation workflows to save time and scale operations as a solopreneur. Use when identifying repetitive tasks to automate, building workflows across tools, setting up triggers and actions, or…",
+      "category": "agent",
+      "tags": [
+        "N8n",
+        "Zapier",
+        "Automation Workflow",
+        "Workflow Automation"
+      ],
+      "stats": {
+        "downloads": 83577,
+        "installs": 2974,
+        "stars": 315
+      },
+      "version": "0.1.0",
+      "updatedAt": 1778486040582,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/jk-0001/automation-workflows"
+    },
+    {
+      "id": "clawhub:prismfy-search",
+      "source": "clawhub",
+      "slug": "prismfy-search",
+      "owner": "uroboros1205",
+      "name": "Prismfy Web Search | Free Google",
+      "summary": "Default web search for OpenClaw. Search the web across 10 engines — Google, Reddit, GitHub, arXiv, Hacker News, and more — using Prismfy. Free tier included,...",
+      "summaryEn": "Default web search for OpenClaw. Search the web across 10 engines — Google, Reddit, GitHub, arXiv, Hacker News, and more — using Prismfy. Free tier included,...",
+      "category": "search",
+      "tags": [
+        "Arxiv",
+        "Web Search",
+        "Search The Web",
+        "GitHub",
+        "News"
+      ],
+      "stats": {
+        "downloads": 83391,
+        "installs": 2889,
+        "stars": 41
+      },
+      "version": "1.3.8",
+      "updatedAt": 1778492223592,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/uroboros1205/prismfy-search"
+    },
+    {
+      "id": "clawhub:excel-xlsx",
+      "source": "clawhub",
+      "slug": "excel-xlsx",
+      "owner": "ivangdavila",
+      "name": "Excel / XLSX",
+      "summary": "Create, inspect, and edit Microsoft Excel workbooks and XLSX files with reliable formulas, dates, types, formatting, recalculation, and template preservation...",
+      "summaryEn": "Create, inspect, and edit Microsoft Excel workbooks and XLSX files with reliable formulas, dates, types, formatting, recalculation, and template preservation...",
+      "category": "office",
+      "tags": [
+        "CSV"
+      ],
+      "stats": {
+        "downloads": 83109,
+        "installs": 2731,
+        "stars": 298
+      },
+      "version": "1.0.2",
+      "updatedAt": 1789594554485,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/ivangdavila/excel-xlsx"
+    },
+    {
+      "id": "clawhub:feishu-evolver-wrapper",
+      "source": "clawhub",
+      "slug": "feishu-evolver-wrapper",
+      "owner": "autogame-17",
+      "name": "Feishu Evolver Wrapper",
+      "summary": "(Depreciated: This skill is no longer maintained; its related functions have been absorbed by the Evolver main body.) Feishu-integrated wrapper for the capability-evolver. Manages the evolution loop lifecycle…",
+      "summaryEn": "(Depreciated: This skill is no longer maintained; its related functions have been absorbed by the Evolver main body.) Feishu-integrated wrapper for the capability-evolver. Manages the evolution loop lifecycle…",
+      "category": "productivity",
+      "tags": [
+        "Feishu"
+      ],
+      "stats": {
+        "downloads": 80445,
+        "installs": 1688,
+        "stars": 10
+      },
+      "version": "1.8.0",
+      "updatedAt": 1781453651727,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/autogame-17/feishu-evolver-wrapper"
+    },
+    {
+      "id": "clawhub:browser-use",
+      "source": "clawhub",
+      "slug": "browser-use",
+      "owner": "shawnpana",
+      "name": "Browser Use",
+      "summary": "Automates browser interactions for web testing, form filling, screenshots, and data extraction. Use when the user needs to navigate websites, interact with w...",
+      "summaryEn": "Automates browser interactions for web testing, form filling, screenshots, and data extraction. Use when the user needs to navigate websites, interact with w...",
+      "category": "search",
+      "tags": [
+        "Browser Automation",
+        "Data Extraction"
+      ],
+      "stats": {
+        "downloads": 76017,
+        "installs": 500,
+        "stars": 117
+      },
+      "version": "2.0.1",
+      "updatedAt": 1779076471602,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/shawnpana/browser-use"
+    },
+    {
+      "id": "clawhub:agent-phone-call",
+      "source": "clawhub",
+      "slug": "agent-phone-call",
+      "owner": "mrsz",
+      "name": "Agent Phone Call",
+      "summary": "Agent Phone Call gives every AI agent a phone number and the ability to get things done over the phone — finding contacts, making calls, and completing tasks...",
+      "summaryEn": "Agent Phone Call gives every AI agent a phone number and the ability to get things done over the phone — finding contacts, making calls, and completing tasks...",
+      "category": "productivity",
+      "tags": [
+        "Customer Service",
+        "Agent Phone Call",
+        "Booking",
+        "Inbound Call",
+        "Incoming Call"
+      ],
+      "stats": {
+        "downloads": 75380,
+        "installs": 2454,
+        "stars": 18
+      },
+      "version": "1.0.5",
+      "updatedAt": 1779075378015,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/mrsz/agent-phone-call"
+    },
+    {
+      "id": "clawhub:free-ride",
+      "source": "clawhub",
+      "slug": "free-ride",
+      "owner": "shaivpidadi",
+      "name": "Free Ride - Unlimited free AI",
+      "summary": "Manages free AI models from OpenRouter for OpenClaw. Automatically ranks models by quality, configures fallbacks for rate-limit handling, and updates opencla...",
+      "summaryEn": "Manages free AI models from OpenRouter for OpenClaw. Automatically ranks models by quality, configures fallbacks for rate-limit handling, and updates opencla...",
+      "category": "dev",
+      "tags": [
+        "Json"
+      ],
+      "stats": {
+        "downloads": 72065,
+        "installs": 2360,
+        "stars": 491
+      },
+      "version": "1.0.11",
+      "updatedAt": 1778486032634,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/shaivpidadi/free-ride"
+    },
+    {
+      "id": "clawhub:mcporter",
+      "source": "clawhub",
+      "slug": "mcporter",
+      "owner": "steipete",
+      "name": "Mcporter",
+      "summary": "Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP or stdio), including ad-hoc servers, config edits, and CLI/type generation.",
+      "summaryEn": "Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP or stdio), including ad-hoc servers, config edits, and CLI/type generation.",
+      "category": "other",
+      "tags": [
+        "other"
+      ],
+      "stats": {
+        "downloads": 71104,
+        "installs": 2189,
+        "stars": 202
+      },
+      "version": "1.0.0",
+      "updatedAt": 1779137319429,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/mcporter"
+    },
+    {
+      "id": "clawhub:elite-longterm-memory",
+      "source": "clawhub",
+      "slug": "elite-longterm-memory",
+      "owner": "nextfrontierbuilds",
+      "name": "Elite Longterm Memory",
+      "summary": "Ultimate AI agent memory system for Cursor, Claude, ChatGPT & Copilot. WAL protocol + vector search + git-notes + cloud backup. Never lose context again. Vibe-coding ready.",
+      "summaryEn": "Ultimate AI agent memory system for Cursor, Claude, ChatGPT & Copilot. WAL protocol + vector search + git-notes + cloud backup. Never lose context again. Vibe-coding ready.",
+      "category": "dev",
+      "tags": [
+        "Chatgpt",
+        "Cursor",
+        "Git Notes",
+        "Vector Search",
+        "Vibe Coding"
+      ],
+      "stats": {
+        "downloads": 65066,
+        "installs": 2269,
+        "stars": 235
+      },
+      "version": "1.2.3",
+      "updatedAt": 1778987912264,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/nextfrontierbuilds/elite-longterm-memory"
+    },
+    {
+      "id": "clawhub:find-skills-skill",
+      "source": "clawhub",
+      "slug": "find-skills-skill",
+      "owner": "fangkelvin",
+      "name": "Find Skills Skill",
+      "summary": "Search and discover OpenClaw skills from various sources. Use when: user wants to find available skills, search for specific functionality, or discover new s...",
+      "summaryEn": "Search and discover OpenClaw skills from various sources. Use when: user wants to find available skills, search for specific functionality, or discover new s...",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "stats": {
+        "downloads": 62593,
+        "installs": 1855,
+        "stars": 150
+      },
+      "version": "1.0.0",
+      "updatedAt": 1789594554485,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/fangkelvin/find-skills-skill"
+    },
+    {
+      "id": "clawhub:desktop-control",
+      "source": "clawhub",
+      "slug": "desktop-control",
+      "owner": "matagul",
+      "name": "Desktop Control",
+      "summary": "Advanced desktop automation with mouse, keyboard, and screen control",
+      "summaryEn": "Advanced desktop automation with mouse, keyboard, and screen control",
+      "category": "other",
+      "tags": [
+        "other"
+      ],
+      "stats": {
+        "downloads": 62559,
+        "installs": 1867,
+        "stars": 382
+      },
+      "version": "1.0.0",
+      "updatedAt": 1779076726640,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/matagul/desktop-control"
+    },
+    {
+      "id": "clawhub:brave-search",
+      "source": "clawhub",
+      "slug": "brave-search",
+      "owner": "steipete",
+      "name": "Brave Search",
+      "summary": "Web search and content extraction via Brave Search API. Use for searching documentation, facts, or any web content. Lightweight, no browser required.",
+      "summaryEn": "Web search and content extraction via Brave Search API. Use for searching documentation, facts, or any web content. Lightweight, no browser required.",
+      "category": "search",
+      "tags": [
+        "Documentation",
+        "Web Search",
+        "Browser"
+      ],
+      "stats": {
+        "downloads": 62212,
+        "installs": 2069,
+        "stars": 192
+      },
+      "version": "1.0.1",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/brave-search"
+    },
+    {
+      "id": "clawhub:clawcall-dev",
+      "source": "clawhub",
+      "slug": "clawcall-dev",
+      "owner": "clawcall-dev",
+      "name": "ClawCall",
+      "summary": "Use when the user wants an AI agent to place a US phone call, call a business, handle hold or phone menus, confirm/reschedule/cancel/book/follow up/check an order, reach a real person, leave voicemail, connect the user…",
+      "summaryEn": "Use when the user wants an AI agent to place a US phone call, call a business, handle hold or phone menus, confirm/reschedule/cancel/book/follow up/check an order, reach a real person, leave voicemail, connect the user…",
+      "category": "productivity",
+      "tags": [
+        "Business",
+        "Email"
+      ],
+      "stats": {
+        "downloads": 62084,
+        "installs": 691,
+        "stars": 18
+      },
+      "version": "2.0.1",
+      "updatedAt": 1791150563076,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/clawcall-dev/clawcall-dev"
+    },
+    {
+      "id": "clawhub:stock-analysis",
+      "source": "clawhub",
+      "slug": "stock-analysis",
+      "owner": "udiedrichsen",
+      "name": "Stock Analysis",
+      "summary": "Analyze stocks and cryptocurrencies using Yahoo Finance data. Supports portfolio management, watchlists with alerts, dividend analysis, 8-dimension stock scoring, viral trend detection (Hot Scanner), and rumor/early…",
+      "summaryEn": "Analyze stocks and cryptocurrencies using Yahoo Finance data. Supports portfolio management, watchlists with alerts, dividend analysis, 8-dimension stock scoring, viral trend detection (Hot Scanner), and rumor/early…",
+      "category": "data",
+      "tags": [
+        "Stock Analysis",
+        "Portfolio Management",
+        "Crypto"
+      ],
+      "stats": {
+        "downloads": 59108,
+        "installs": 2083,
+        "stars": 259
+      },
+      "version": "6.2.0",
+      "updatedAt": 1779147023400,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/udiedrichsen/stock-analysis"
+    },
+    {
+      "id": "clawhub:video-frames",
+      "source": "clawhub",
+      "slug": "video-frames",
+      "owner": "steipete",
+      "name": "Video Frames",
+      "summary": "Extract frames or short clips from videos using ffmpeg.",
+      "summaryEn": "Extract frames or short clips from videos using ffmpeg.",
+      "category": "media",
+      "tags": [
+        "media"
+      ],
+      "stats": {
+        "downloads": 59037,
+        "installs": 1664,
+        "stars": 133
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/video-frames"
+    },
+    {
+      "id": "clawhub:powerpoint-pptx",
+      "source": "clawhub",
+      "slug": "powerpoint-pptx",
+      "owner": "ivangdavila",
+      "name": "Powerpoint / PPTX",
+      "summary": "Create, inspect, and edit Microsoft PowerPoint presentations and PPTX decks with reliable layouts, templates, placeholders, notes, charts, and visual QA. Use...",
+      "summaryEn": "Create, inspect, and edit Microsoft PowerPoint presentations and PPTX decks with reliable layouts, templates, placeholders, notes, charts, and visual QA. Use...",
+      "category": "office",
+      "tags": [
+        "office"
+      ],
+      "stats": {
+        "downloads": 57246,
+        "installs": 1597,
+        "stars": 146
+      },
+      "version": "1.0.1",
+      "updatedAt": 1778491590632,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/ivangdavila/powerpoint-pptx"
+    },
+    {
+      "id": "clawhub:youtube-watcher",
+      "source": "clawhub",
+      "slug": "youtube-watcher",
+      "owner": "michaelgathara",
+      "name": "YouTube Watcher",
+      "summary": "Fetch and read transcripts from YouTube videos. Use when you need to summarize a video, answer questions about its content, or extract information from it.",
+      "summaryEn": "Fetch and read transcripts from YouTube videos. Use when you need to summarize a video, answer questions about its content, or extract information from it.",
+      "category": "media",
+      "tags": [
+        "Summarize"
+      ],
+      "stats": {
+        "downloads": 55751,
+        "installs": 1657,
+        "stars": 345
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485852489,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/michaelgathara/youtube-watcher"
+    },
+    {
+      "id": "clawhub:slack",
+      "source": "clawhub",
+      "slug": "slack",
+      "owner": "steipete",
+      "name": "Slack",
+      "summary": "Use when you need to control Slack from Clawdbot via the slack tool, including reacting to messages or pinning/unpinning items in Slack channels or DMs.",
+      "summaryEn": "Use when you need to control Slack from Clawdbot via the slack tool, including reacting to messages or pinning/unpinning items in Slack channels or DMs.",
+      "category": "productivity",
+      "tags": [
+        "Slack"
+      ],
+      "stats": {
+        "downloads": 54304,
+        "installs": 1515,
+        "stars": 160
+      },
+      "version": "1.0.0",
+      "updatedAt": 1789594554485,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/slack"
+    },
+    {
+      "id": "clawhub:himalaya",
+      "source": "clawhub",
+      "slug": "himalaya",
+      "owner": "lamelas",
+      "name": "Himalaya",
+      "summary": "CLI to manage emails via IMAP/SMTP. Use `himalaya` to list, read, write, reply, forward, search, and organize emails from the terminal. Supports multiple accounts and message composition with MML (MIME Meta Language).",
+      "summaryEn": "CLI to manage emails via IMAP/SMTP. Use `himalaya` to list, read, write, reply, forward, search, and organize emails from the terminal. Supports multiple accounts and message composition with MML (MIME Meta Language).",
+      "category": "productivity",
+      "tags": [
+        "Email",
+        "Message"
+      ],
+      "stats": {
+        "downloads": 53036,
+        "installs": 1616,
+        "stars": 70
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/lamelas/himalaya"
+    },
+    {
+      "id": "clawhub:news-summary",
+      "source": "clawhub",
+      "slug": "news-summary",
+      "owner": "joargp",
+      "name": "News Summary",
+      "summary": "This skill should be used when the user asks for news updates, daily briefings, or what's happening in the world. Fetches news from trusted international RSS feeds and can create voice summaries.",
+      "summaryEn": "This skill should be used when the user asks for news updates, daily briefings, or what's happening in the world. Fetches news from trusted international RSS feeds and can create voice summaries.",
+      "category": "search",
+      "tags": [
+        "News",
+        "RSS"
+      ],
+      "stats": {
+        "downloads": 51373,
+        "installs": 1545,
+        "stars": 142
+      },
+      "version": "1.0.1",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/joargp/news-summary"
+    },
+    {
+      "id": "clawhub:imap-smtp-email",
+      "source": "clawhub",
+      "slug": "imap-smtp-email",
+      "owner": "gzlicanyi",
+      "name": "imap-smtp-email",
+      "summary": "Read and send email via IMAP/SMTP. Check for new/unread messages, fetch content, search mailboxes, mark as read/unread, and send emails with attachments. Supports multiple accounts. Works with any IMAP/SMTP server…",
+      "summaryEn": "Read and send email via IMAP/SMTP. Check for new/unread messages, fetch content, search mailboxes, mark as read/unread, and send emails with attachments. Supports multiple accounts. Works with any IMAP/SMTP server…",
+      "category": "productivity",
+      "tags": [
+        "Gmail",
+        "Send Email"
+      ],
+      "stats": {
+        "downloads": 51143,
+        "installs": 1542,
+        "stars": 108
+      },
+      "version": "0.0.19",
+      "updatedAt": 1784537467669,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/gzlicanyi/imap-smtp-email"
+    },
+    {
+      "id": "clawhub:pdf",
+      "source": "clawhub",
+      "slug": "pdf",
+      "owner": "awspace",
+      "name": "Pdf",
+      "summary": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate…",
+      "summaryEn": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate…",
+      "category": "office",
+      "tags": [
+        "PDF"
+      ],
+      "stats": {
+        "downloads": 50955,
+        "installs": 1492,
+        "stars": 66
+      },
+      "version": "0.1.0",
+      "updatedAt": 1789594554485,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/awspace/pdf"
+    },
+    {
+      "id": "clawhub:xiucheng-self-improving-agent",
+      "source": "clawhub",
+      "slug": "xiucheng-self-improving-agent",
+      "owner": "xiucheng",
+      "name": "Self Improving Agent",
+      "summary": "Self-improving agent system that analyzes conversation quality, identifies improvement opportunities, and continuously optimizes response strategies.",
+      "summaryEn": "Self-improving agent system that analyzes conversation quality, identifies improvement opportunities, and continuously optimizes response strategies.",
+      "category": "agent",
+      "tags": [
+        "Self Improving",
+        "Self Improvement",
+        "Learning",
+        "Growth",
+        "Optimization"
+      ],
+      "stats": {
+        "downloads": 50035,
+        "installs": 1475,
+        "stars": 60
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778491757870,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/xiucheng/xiucheng-self-improving-agent"
+    },
+    {
+      "id": "clawhub:markdown-converter",
+      "source": "clawhub",
+      "slug": "markdown-converter",
+      "owner": "steipete",
+      "name": "Markdown Converter",
+      "summary": "Convert documents and files to Markdown using markitdown. Use when converting PDF, Word (.docx), PowerPoint (.pptx), Excel (.xlsx, .xls), HTML, CSV, JSON, XML, images (with EXIF/OCR), audio (with transcription), ZIP…",
+      "summaryEn": "Convert documents and files to Markdown using markitdown. Use when converting PDF, Word (.docx), PowerPoint (.pptx), Excel (.xlsx, .xls), HTML, CSV, JSON, XML, images (with EXIF/OCR), audio (with transcription), ZIP…",
+      "category": "dev",
+      "tags": [
+        "CSV",
+        "OCR",
+        "Transcription",
+        "Audio",
+        "Json"
+      ],
+      "stats": {
+        "downloads": 49756,
+        "installs": 1529,
+        "stars": 189
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/markdown-converter"
+    },
+    {
+      "id": "clawhub:liang-tavily-search",
+      "source": "clawhub",
+      "slug": "liang-tavily-search",
+      "owner": "matthew77",
+      "name": "Tavily Search",
+      "summary": "Web search using Tavily's LLM-optimized API. Returns relevant results with content snippets, scores, and metadata.",
+      "summaryEn": "Web search using Tavily's LLM-optimized API. Returns relevant results with content snippets, scores, and metadata.",
+      "category": "search",
+      "tags": [
+        "Web Search"
+      ],
+      "stats": {
+        "downloads": 49222,
+        "installs": 1608,
+        "stars": 121
+      },
+      "version": "1.0.1",
+      "updatedAt": 1789594554485,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/matthew77/liang-tavily-search"
+    },
+    {
+      "id": "clawhub:browser-automation",
+      "source": "clawhub",
+      "slug": "browser-automation",
+      "owner": "peytoncasper",
+      "name": "Browser Automation",
+      "summary": "Automate web browser interactions using natural language via CLI commands. Use when the user asks to browse websites, navigate web pages, extract data from websites, take screenshots, fill forms, click buttons, or…",
+      "summaryEn": "Automate web browser interactions using natural language via CLI commands. Use when the user asks to browse websites, navigate web pages, extract data from websites, take screenshots, fill forms, click buttons, or…",
+      "category": "search",
+      "tags": [
+        "Browser Automation",
+        "Web Browser"
+      ],
+      "stats": {
+        "downloads": 48866,
+        "installs": 1591,
+        "stars": 66
+      },
+      "version": "1.0.1",
+      "updatedAt": 1778988479927,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/peytoncasper/browser-automation"
+    },
+    {
+      "id": "clawhub:tavily",
+      "source": "clawhub",
+      "slug": "tavily",
+      "owner": "bert-builder",
+      "name": "Tavily AI Search",
+      "summary": "AI-optimized web search using Tavily Search API. Use when you need comprehensive web research, current events lookup, domain-specific search, or AI-generated answer summaries. Tavily is optimized for LLM consumption…",
+      "summaryEn": "AI-optimized web search using Tavily Search API. Use when you need comprehensive web research, current events lookup, domain-specific search, or AI-generated answer summaries. Tavily is optimized for LLM consumption…",
+      "category": "search",
+      "tags": [
+        "Web Search",
+        "News"
+      ],
+      "stats": {
+        "downloads": 48727,
+        "installs": 1864,
+        "stars": 36
+      },
+      "version": "1.0.0",
+      "updatedAt": 1789594554485,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/bert-builder/tavily"
+    },
+    {
+      "id": "clawhub:session-logs",
+      "source": "clawhub",
+      "slug": "session-logs",
+      "owner": "guogang1024",
+      "name": "Session-logs",
+      "summary": "Search and analyze your own session logs (older/parent conversations) using jq.",
+      "summaryEn": "Search and analyze your own session logs (older/parent conversations) using jq.",
+      "category": "other",
+      "tags": [
+        "other"
+      ],
+      "stats": {
+        "downloads": 46879,
+        "installs": 1718,
+        "stars": 31
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778486000320,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/guogang1024/session-logs"
+    },
+    {
+      "id": "clawhub:playwright-mcp",
+      "source": "clawhub",
+      "slug": "playwright-mcp",
+      "owner": "spiceman161",
+      "name": "Playwright MCP",
+      "summary": "Browser automation via Playwright MCP server. Navigate websites, click elements, fill forms, extract data, take screenshots, and perform full browser automation workflows.",
+      "summaryEn": "Browser automation via Playwright MCP server. Navigate websites, click elements, fill forms, extract data, take screenshots, and perform full browser automation workflows.",
+      "category": "search",
+      "tags": [
+        "Playwright",
+        "Browser Automation"
+      ],
+      "stats": {
+        "downloads": 46833,
+        "installs": 1603,
+        "stars": 160
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778486086401,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/spiceman161/playwright-mcp"
+    },
+    {
+      "id": "clawhub:memory-setup",
+      "source": "clawhub",
+      "slug": "memory-setup",
+      "owner": "jrbobbyhansen-pixel",
+      "name": "Memory Setup",
+      "summary": "Enable and configure Moltbot/Clawdbot memory search for persistent context. Use when setting up memory, fixing \"goldfish brain,\" or helping users configure memorySearch in their config. Covers MEMORY.md, daily logs…",
+      "summaryEn": "Enable and configure Moltbot/Clawdbot memory search for persistent context. Use when setting up memory, fixing \"goldfish brain,\" or helping users configure memorySearch in their config. Covers MEMORY.md, daily logs…",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "stats": {
+        "downloads": 46619,
+        "installs": 1473,
+        "stars": 129
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485863829,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/jrbobbyhansen-pixel/memory-setup"
+    },
+    {
+      "id": "clawhub:planning-with-files",
+      "source": "clawhub",
+      "slug": "planning-with-files",
+      "owner": "othmanadi",
+      "name": "Planning with files",
+      "summary": "Persistent file-based planning for multi-step AI-agent work. Keeps task_plan.md, findings.md, and progress.md on disk; lifecycle hooks inject selected project planning context. Automatic recovery reads project planning…",
+      "summaryEn": "Persistent file-based planning for multi-step AI-agent work. Keeps task_plan.md, findings.md, and progress.md on disk; lifecycle hooks inject selected project planning context. Automatic recovery reads project planning…",
+      "category": "agent",
+      "tags": [
+        "planning",
+        "brainstorming",
+        "orchestrate",
+        "managed",
+        "reliable-planning"
+      ],
+      "stats": {
+        "downloads": 45434,
+        "installs": 889,
+        "stars": 62
+      },
+      "version": "3.25.0",
+      "updatedAt": 1792518327261,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/othmanadi/planning-with-files"
+    },
+    {
+      "id": "clawhub:blogwatcher",
+      "source": "clawhub",
+      "slug": "blogwatcher",
+      "owner": "steipete",
+      "name": "Blogwatcher",
+      "summary": "Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI.",
+      "summaryEn": "Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI.",
+      "category": "search",
+      "tags": [
+        "RSS"
+      ],
+      "stats": {
+        "downloads": 44919,
+        "installs": 1513,
+        "stars": 75
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/blogwatcher"
+    },
+    {
+      "id": "clawhub:clawddocs",
+      "source": "clawhub",
+      "slug": "clawddocs",
+      "owner": "nicholasspisak",
+      "name": "Clawdbot Documentation Expert",
+      "summary": "Clawdbot documentation expert with decision tree navigation, search scripts, doc fetching, version tracking, and config snippets for all Clawdbot features",
+      "summaryEn": "Clawdbot documentation expert with decision tree navigation, search scripts, doc fetching, version tracking, and config snippets for all Clawdbot features",
+      "category": "office",
+      "tags": [
+        "Documentation"
+      ],
+      "stats": {
+        "downloads": 43982,
+        "installs": 1335,
+        "stars": 303
+      },
+      "version": "1.2.2",
+      "updatedAt": 1778485733200,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/nicholasspisak/clawddocs"
+    },
+    {
+      "id": "clawhub:trello",
+      "source": "clawhub",
+      "slug": "trello",
+      "owner": "steipete",
+      "name": "Trello",
+      "summary": "Manage Trello boards, lists, and cards via the Trello REST API.",
+      "summaryEn": "Manage Trello boards, lists, and cards via the Trello REST API.",
+      "category": "dev",
+      "tags": [
+        "Rest Api"
+      ],
+      "stats": {
+        "downloads": 43925,
+        "installs": 1437,
+        "stars": 164
+      },
+      "version": "1.0.0",
+      "updatedAt": 1789594554485,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/trello"
+    },
+    {
+      "id": "clawhub:playwright",
+      "source": "clawhub",
+      "slug": "playwright",
+      "owner": "ivangdavila",
+      "name": "Playwright (Automation + MCP + Scraper)",
+      "summary": "Automates, tests, and debugs browsers with Playwright: locators, auto-waiting, traces, CI runs, and MCP browser control. Use when a test is flaky, times out, or fails only in CI or headless; when a locator matches…",
+      "summaryEn": "Automates, tests, and debugs browsers with Playwright: locators, auto-waiting, traces, CI runs, and MCP browser control. Use when a test is flaky, times out, or fails only in CI or headless; when a locator matches…",
+      "category": "search",
+      "tags": [
+        "Playwright",
+        "Browser Automation",
+        "Debug"
+      ],
+      "stats": {
+        "downloads": 43305,
+        "installs": 1341,
+        "stars": 130
+      },
+      "version": "1.0.4",
+      "updatedAt": 1785066839468,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/ivangdavila/playwright"
+    },
+    {
+      "id": "clawhub:data-analysis",
+      "source": "clawhub",
+      "slug": "data-analysis",
+      "owner": "ivangdavila",
+      "name": "Data Analysis",
+      "summary": "Data analysis and visualization. Query databases, generate reports, automate spreadsheets, and turn raw data into clear, actionable insights. Use when (1) yo...",
+      "summaryEn": "Data analysis and visualization. Query databases, generate reports, automate spreadsheets, and turn raw data into clear, actionable insights. Use when (1) yo...",
+      "category": "data",
+      "tags": [
+        "Data Analysis",
+        "Spreadsheets",
+        "SQL"
+      ],
+      "stats": {
+        "downloads": 43241,
+        "installs": 1243,
+        "stars": 126
+      },
+      "version": "1.0.2",
+      "updatedAt": 1778488085397,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/ivangdavila/data-analysis"
+    },
+    {
+      "id": "clawhub:superdesign",
+      "source": "clawhub",
+      "slug": "superdesign",
+      "owner": "mpociot",
+      "name": "SuperDesign",
+      "summary": "Expert frontend design guidelines for creating beautiful, modern UIs. Use when building landing pages, dashboards, or any user interface.",
+      "summaryEn": "Expert frontend design guidelines for creating beautiful, modern UIs. Use when building landing pages, dashboards, or any user interface.",
+      "category": "design",
+      "tags": [
+        "design"
+      ],
+      "stats": {
+        "downloads": 42507,
+        "installs": 1149,
+        "stars": 194
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/mpociot/superdesign"
+    },
+    {
+      "id": "clawhub:proactive-agent-lite",
+      "source": "clawhub",
+      "slug": "proactive-agent-lite",
+      "owner": "bestrocky",
+      "name": "Proactive Agent Lite",
+      "summary": "Transform AI agents from task-followers into proactive partners with memory architecture, reverse prompting, and self-healing patterns. Lightweight version f...",
+      "summaryEn": "Transform AI agents from task-followers into proactive partners with memory architecture, reverse prompting, and self-healing patterns. Lightweight version f...",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "stats": {
+        "downloads": 41683,
+        "installs": 1474,
+        "stars": 64
+      },
+      "version": "1.0.0",
+      "updatedAt": 1789594554485,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/bestrocky/proactive-agent-lite"
+    },
+    {
+      "id": "clawhub:ui-ux-pro-max",
+      "source": "clawhub",
+      "slug": "ui-ux-pro-max",
+      "owner": "xobi667",
+      "name": "UI/UX Pro Max",
+      "summary": "UI/UX design intelligence and implementation guidance for building polished interfaces. Use when the user asks for UI design, UX flows, information architecture, visual style direction, design systems/tokens, component…",
+      "summaryEn": "UI/UX design intelligence and implementation guidance for building polished interfaces. Use when the user asks for UI design, UX flows, information architecture, visual style direction, design systems/tokens, component…",
+      "category": "design",
+      "tags": [
+        "design"
+      ],
+      "stats": {
+        "downloads": 41310,
+        "installs": 1252,
+        "stars": 177
+      },
+      "version": "0.1.0",
+      "updatedAt": 1778485863829,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/xobi667/ui-ux-pro-max"
+    },
+    {
+      "id": "clawhub:byterover",
+      "source": "clawhub",
+      "slug": "byterover",
+      "owner": "byteroverinc",
+      "name": "ByteRover",
+      "summary": "You MUST use this for gathering contexts before any work. This is a Knowledge management for AI agents. Use `brv` to store and retrieve project patterns, dec...",
+      "summaryEn": "You MUST use this for gathering contexts before any work. This is a Knowledge management for AI agents. Use `brv` to store and retrieve project patterns, dec...",
+      "category": "productivity",
+      "tags": [
+        "Knowledge Management"
+      ],
+      "stats": {
+        "downloads": 41232,
+        "installs": 1367,
+        "stars": 117
+      },
+      "version": "3.3.0",
+      "updatedAt": 1778485857338,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/byteroverinc/byterover"
+    },
+    {
+      "id": "clawhub:web-search",
+      "source": "clawhub",
+      "slug": "web-search",
+      "owner": "billyutw",
+      "name": "Web Search",
+      "summary": "This skill should be used when users need to search the web for information, find current content, look up news articles, search for images, or find videos. It uses DuckDuckGo's search API to return results in clean…",
+      "summaryEn": "This skill should be used when users need to search the web for information, find current content, look up news articles, search for images, or find videos. It uses DuckDuckGo's search API to return results in clean…",
+      "category": "search",
+      "tags": [
+        "Web Search",
+        "Search The Web",
+        "Json",
+        "News"
+      ],
+      "stats": {
+        "downloads": 40944,
+        "installs": 1320,
+        "stars": 35
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778987348873,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/billyutw/web-search"
+    },
+    {
+      "id": "clawhub:skill-finder-cn",
+      "source": "clawhub",
+      "slug": "skill-finder-cn",
+      "owner": "guohongbin-git",
+      "name": "Skill Finder Cn",
+      "summary": "Skill 查找器 | Skill Finder. 帮助发现和安装 ClawHub Skills | Discover and install ClawHub Skills. 回答'有什么技能可以X'、'找一个技能' | Answers 'what skill can X', 'find a skill'. 触发...",
+      "summaryEn": "Skill 查找器 | Skill Finder. 帮助发现和安装 ClawHub Skills | Discover and install ClawHub Skills. 回答'有什么技能可以X'、'找一个技能' | Answers 'what skill can X', 'find a skill'. 触发...",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "stats": {
+        "downloads": 40260,
+        "installs": 1339,
+        "stars": 133
+      },
+      "version": "1.0.1",
+      "updatedAt": 1778491563795,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/guohongbin-git/skill-finder-cn"
+    },
+    {
+      "id": "clawhub:discord",
+      "source": "clawhub",
+      "slug": "discord",
+      "owner": "steipete",
+      "name": "Discord",
+      "summary": "Use when you need to control Discord from Clawdbot via the discord tool: send messages, react, post or upload stickers, upload emojis, run polls, manage threads/pins/search, fetch permissions or member/role/channel…",
+      "summaryEn": "Use when you need to control Discord from Clawdbot via the discord tool: send messages, react, post or upload stickers, upload emojis, run polls, manage threads/pins/search, fetch permissions or member/role/channel…",
+      "category": "productivity",
+      "tags": [
+        "Discord"
+      ],
+      "stats": {
+        "downloads": 40230,
+        "installs": 1337,
+        "stars": 80
+      },
+      "version": "1.0.1",
+      "updatedAt": 1779135045551,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/discord"
+    },
+    {
+      "id": "clawhub:gmail",
+      "source": "clawhub",
+      "slug": "gmail",
+      "owner": "byungkyu",
+      "name": "gmail",
+      "summary": "Gmail API integration with managed OAuth. Read, send, and manage emails, threads, labels, and drafts. Use this skill when users want to interact with Gmail. For other third party apps, use the api-gateway skill…",
+      "summaryEn": "Gmail API integration with managed OAuth. Read, send, and manage emails, threads, labels, and drafts. Use this skill when users want to interact with Gmail. For other third party apps, use the api-gateway skill…",
+      "category": "productivity",
+      "tags": [
+        "Gmail",
+        "Api Integration"
+      ],
+      "stats": {
+        "downloads": 39742,
+        "installs": 1133,
+        "stars": 75
+      },
+      "version": "1.2.5",
+      "updatedAt": 1790937489168,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/byungkyu/gmail"
+    },
+    {
+      "id": "clawhub:model-usage",
+      "source": "clawhub",
+      "slug": "model-usage",
+      "owner": "steipete",
+      "name": "Model Usage",
+      "summary": "Use CodexBar CLI local cost usage to summarize per-model usage for Codex or Claude, including the current (most recent) model or a full model breakdown. Trigger when asked for model-level usage/cost data from codexbar…",
+      "summaryEn": "Use CodexBar CLI local cost usage to summarize per-model usage for Codex or Claude, including the current (most recent) model or a full model breakdown. Trigger when asked for model-level usage/cost data from codexbar…",
+      "category": "dev",
+      "tags": [
+        "Json",
+        "Summarize"
+      ],
+      "stats": {
+        "downloads": 39413,
+        "installs": 1590,
+        "stars": 114
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/model-usage"
+    },
+    {
+      "id": "clawhub:deep-research-pro",
+      "source": "clawhub",
+      "slug": "deep-research-pro",
+      "owner": "parags",
+      "name": "Deep Research Pro",
+      "summary": "Multi-source deep research agent. Searches the web, synthesizes findings, and delivers cited reports. No API keys required.",
+      "summaryEn": "Multi-source deep research agent. Searches the web, synthesizes findings, and delivers cited reports. No API keys required.",
+      "category": "search",
+      "tags": [
+        "search"
+      ],
+      "stats": {
+        "downloads": 38731,
+        "installs": 1105,
+        "stars": 90
+      },
+      "version": "1.0.2",
+      "updatedAt": 1778486029224,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/parags/deep-research-pro"
+    },
+    {
+      "id": "clawhub:gemini",
+      "source": "clawhub",
+      "slug": "gemini",
+      "owner": "steipete",
+      "name": "Gemini",
+      "summary": "Gemini CLI for one-shot Q&A, summaries, and generation.",
+      "summaryEn": "Gemini CLI for one-shot Q&A, summaries, and generation.",
+      "category": "other",
+      "tags": [
+        "other"
+      ],
+      "stats": {
+        "downloads": 38475,
+        "installs": 1497,
+        "stars": 58
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/gemini"
+    },
+    {
+      "id": "clawhub:anysearch",
+      "source": "clawhub",
+      "slug": "anysearch",
+      "owner": "anysearch-ai",
+      "name": "AnySearch",
+      "summary": "Real-time search engine supporting web search, vertical domain search, parallel batch search, and URL content extraction.",
+      "summaryEn": "Real-time search engine supporting web search, vertical domain search, parallel batch search, and URL content extraction.",
+      "category": "search",
+      "tags": [
+        "search",
+        "websearch",
+        "ai-search",
+        "anysearch",
+        "agent-search"
+      ],
+      "stats": {
+        "downloads": 37677,
+        "installs": 831,
+        "stars": 50
+      },
+      "version": "3.1.1",
+      "updatedAt": 1788339442010,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/anysearch-ai/anysearch"
+    },
+    {
+      "id": "clawhub:agentmail",
+      "source": "clawhub",
+      "slug": "agentmail",
+      "owner": "adboio",
+      "name": "AgentMail",
+      "summary": "API-first email platform designed for AI agents. Create and manage dedicated email inboxes, send and receive emails programmatically, and handle email-based workflows with webhooks and real-time events. Use when you…",
+      "summaryEn": "API-first email platform designed for AI agents. Create and manage dedicated email inboxes, send and receive emails programmatically, and handle email-based workflows with webhooks and real-time events. Use when you…",
+      "category": "productivity",
+      "tags": [
+        "Gmail",
+        "Email"
+      ],
+      "stats": {
+        "downloads": 37576,
+        "installs": 1143,
+        "stars": 66
+      },
+      "version": "1.1.1",
+      "updatedAt": 1778485848771,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/adboio/agentmail"
+    },
+    {
+      "id": "clawhub:stock-watcher",
+      "source": "clawhub",
+      "slug": "stock-watcher",
+      "owner": "robin797860",
+      "name": "Stock Watcher",
+      "summary": "Manage and monitor a personal stock watchlist with support for adding, removing, listing stocks, and summarizing their recent performance using data from 10jqka.com.cn. Use when the user wants to track specific stocks…",
+      "summaryEn": "Manage and monitor a personal stock watchlist with support for adding, removing, listing stocks, and summarizing their recent performance using data from 10jqka.com.cn. Use when the user wants to track specific stocks…",
+      "category": "data",
+      "tags": [
+        "Stock"
+      ],
+      "stats": {
+        "downloads": 37415,
+        "installs": 1255,
+        "stars": 88
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778486040582,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/robin797860/stock-watcher"
+    },
+    {
+      "id": "clawhub:anysearch-mcp",
+      "source": "clawhub",
+      "slug": "anysearch-mcp",
+      "owner": "anysearch-ai",
+      "name": "AnySearch MCP",
+      "summary": "Unified real-time search MCP server supporting general web search, vertical domain search, parallel batch search, and full-page URL content extraction.",
+      "summaryEn": "Unified real-time search MCP server supporting general web search, vertical domain search, parallel batch search, and full-page URL content extraction.",
+      "category": "search",
+      "tags": [
+        "anysearch",
+        "websearch",
+        "search",
+        "ai-search",
+        "agent-search"
+      ],
+      "stats": {
+        "downloads": 37143,
+        "installs": 863,
+        "stars": 27
+      },
+      "version": "2.0.0",
+      "updatedAt": 1785150400086,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/anysearch-ai/anysearch-mcp"
+    },
+    {
+      "id": "clawhub:ai-humanizer",
+      "source": "clawhub",
+      "slug": "ai-humanizer",
+      "owner": "brandonwise",
+      "name": "Humanizer",
+      "summary": "Humanize AI-generated text by detecting and removing patterns typical of LLM output. Rewrites text to sound natural, specific, and human. Uses 24 pattern detectors, 500+ AI vocabulary terms across 3 tiers, and…",
+      "summaryEn": "Humanize AI-generated text by detecting and removing patterns typical of LLM output. Rewrites text to sound natural, specific, and human. Uses 24 pattern detectors, 500+ AI vocabulary terms across 3 tiers, and…",
+      "category": "writing",
+      "tags": [
+        "writing"
+      ],
+      "stats": {
+        "downloads": 37081,
+        "installs": 1122,
+        "stars": 71
+      },
+      "version": "2.1.0",
+      "updatedAt": 1778485946485,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/brandonwise/ai-humanizer"
+    },
+    {
+      "id": "clawhub:xdrop",
+      "source": "clawhub",
+      "slug": "xdrop",
+      "owner": "xixu-me",
+      "name": "Xdrop",
+      "summary": "Use this skill when the user wants to send or fetch files through an Xdrop server from the terminal, asks to automate encrypted Xdrop share-link workflows, p...",
+      "summaryEn": "Use this skill when the user wants to send or fetch files through an Xdrop server from the terminal, asks to automate encrypted Xdrop share-link workflows, p...",
+      "category": "dev",
+      "tags": [
+        "Json"
+      ],
+      "stats": {
+        "downloads": 36745,
+        "installs": 294,
+        "stars": 1
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778492223592,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/xixu-me/xdrop"
+    },
+    {
+      "id": "clawhub:agent-memory",
+      "source": "clawhub",
+      "slug": "agent-memory",
+      "owner": "dennis-da-menace",
+      "name": "Agent Memory",
+      "summary": "Persistent memory for AI agents to store facts, learn from actions, recall information, and track entities across sessions.",
+      "summaryEn": "Persistent memory for AI agents to store facts, learn from actions, recall information, and track entities across sessions.",
+      "category": "agent",
+      "tags": [
+        "Memory System",
+        "Agent Memory",
+        "Learn"
+      ],
+      "stats": {
+        "downloads": 35420,
+        "installs": 1037,
+        "stars": 34
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485891685,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/dennis-da-menace/agent-memory"
+    },
+    {
+      "id": "clawhub:n8n-workflow-automation",
+      "source": "clawhub",
+      "slug": "n8n-workflow-automation",
+      "owner": "kowl64",
+      "name": "n8n workflow automation",
+      "summary": "Designs and outputs n8n workflow JSON with robust triggers, idempotency, error handling, logging, retries, and human-in-the-loop review queues. Use when you need an auditable automation that won’t silently fail.",
+      "summaryEn": "Designs and outputs n8n workflow JSON with robust triggers, idempotency, error handling, logging, retries, and human-in-the-loop review queues. Use when you need an auditable automation that won’t silently fail.",
+      "category": "dev",
+      "tags": [
+        "N8n",
+        "Workflow Automation",
+        "Json"
+      ],
+      "stats": {
+        "downloads": 35207,
+        "installs": 1127,
+        "stars": 161
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485733200,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/kowl64/n8n-workflow-automation"
+    },
+    {
+      "id": "clawhub:openclaw-backup",
+      "source": "clawhub",
+      "slug": "openclaw-backup",
+      "owner": "alex3alex",
+      "name": "OpenClaw Backup",
+      "summary": "Backup and restore OpenClaw data. Use when user asks to create backups, set up automatic backup schedules, restore from backup, or manage backup rotation. Handles ~/.openclaw directory archiving with proper exclusions.",
+      "summaryEn": "Backup and restore OpenClaw data. Use when user asks to create backups, set up automatic backup schedules, restore from backup, or manage backup rotation. Handles ~/.openclaw directory archiving with proper exclusions.",
+      "category": "ops",
+      "tags": [
+        "Backup"
+      ],
+      "stats": {
+        "downloads": 34931,
+        "installs": 1050,
+        "stars": 94
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778486075083,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/alex3alex/openclaw-backup"
+    },
+    {
+      "id": "clawhub:1password",
+      "source": "clawhub",
+      "slug": "1password",
+      "owner": "steipete",
+      "name": "1password",
+      "summary": "Set up and use 1Password CLI (op). Use when installing the CLI, enabling desktop app integration, signing in (single or multi-account), or reading/injecting/running secrets via op.",
+      "summaryEn": "Set up and use 1Password CLI (op). Use when installing the CLI, enabling desktop app integration, signing in (single or multi-account), or reading/injecting/running secrets via op.",
+      "category": "security",
+      "tags": [
+        "security"
+      ],
+      "stats": {
+        "downloads": 34736,
+        "installs": 1307,
+        "stars": 53
+      },
+      "version": "1.0.1",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/1password"
+    },
+    {
+      "id": "clawhub:healthcheck",
+      "source": "clawhub",
+      "slug": "healthcheck",
+      "owner": "stellarhold170nt",
+      "name": "healthcheck",
+      "summary": "Track water and sleep with JSON file storage",
+      "summaryEn": "Track water and sleep with JSON file storage",
+      "category": "dev",
+      "tags": [
+        "Health",
+        "Tracking",
+        "Json"
+      ],
+      "stats": {
+        "downloads": 34675,
+        "installs": 1226,
+        "stars": 11
+      },
+      "version": "1.0.2",
+      "updatedAt": 1778987714962,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/stellarhold170nt/healthcheck"
+    },
+    {
+      "id": "clawhub:docker-essentials",
+      "source": "clawhub",
+      "slug": "docker-essentials",
+      "owner": "arnarsson",
+      "name": "Docker Essentials",
+      "summary": "Essential Docker commands and workflows for container management, image operations, and debugging.",
+      "summaryEn": "Essential Docker commands and workflows for container management, image operations, and debugging.",
+      "category": "ops",
+      "tags": [
+        "Docker",
+        "Debugging"
+      ],
+      "stats": {
+        "downloads": 34258,
+        "installs": 1158,
+        "stars": 41
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485868789,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/arnarsson/docker-essentials"
+    },
+    {
+      "id": "clawhub:ppt-generator",
+      "source": "clawhub",
+      "slug": "ppt-generator",
+      "owner": "wwlyzzyorg",
+      "name": "description: 将用户讲稿一键生成乔布斯风极简科技感竖屏HTML演示稿。当用户需要生成PPT、演示文稿、Slides、幻灯片，或要求科技风/极简风/乔布斯风格的演示时触发此技能。输出为单个可直接运行的HTML文件。",
+      "summary": "将讲稿一键生成乔布斯风极简科技感竖屏HTML演示稿",
+      "summaryEn": "将讲稿一键生成乔布斯风极简科技感竖屏HTML演示稿",
+      "category": "office",
+      "tags": [
+        "office"
+      ],
+      "stats": {
+        "downloads": 34154,
+        "installs": 1200,
+        "stars": 85
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778486017068,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/wwlyzzyorg/ppt-generator"
+    },
+    {
+      "id": "clawhub:remotion-best-practices",
+      "source": "clawhub",
+      "slug": "remotion-best-practices",
+      "owner": "am-will",
+      "name": "Remotion Best Practices",
+      "summary": "Best practices for Remotion - Video creation in React",
+      "summaryEn": "Best practices for Remotion - Video creation in React",
+      "category": "media",
+      "tags": [
+        "media"
+      ],
+      "stats": {
+        "downloads": 33774,
+        "installs": 492,
+        "stars": 12
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778986973784,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/am-will/remotion-best-practices"
+    },
+    {
+      "id": "clawhub:web-search-exa",
+      "source": "clawhub",
+      "slug": "web-search-exa",
+      "owner": "theishangoswami",
+      "name": "Web Search by Exa",
+      "summary": "Neural web search, content extraction, company and people research, code search, and deep research via the Exa MCP server. Use when you need to: (1) search t...",
+      "summaryEn": "Neural web search, content extraction, company and people research, code search, and deep research via the Exa MCP server. Use when you need to: (1) search t...",
+      "category": "search",
+      "tags": [
+        "Web Search",
+        "Documentation",
+        "Search The Web",
+        "News"
+      ],
+      "stats": {
+        "downloads": 33523,
+        "installs": 1067,
+        "stars": 44
+      },
+      "version": "2.0.0",
+      "updatedAt": 1778485857338,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/theishangoswami/web-search-exa"
+    },
+    {
+      "id": "clawhub:ai-ppt-generator",
+      "source": "clawhub",
+      "slug": "ai-ppt-generator",
+      "owner": "ide-rea",
+      "name": "Baidu Wenku AIPPT",
+      "summary": "Generate PPT with Baidu Wenku AI. Smart template selection based on content.",
+      "summaryEn": "Generate PPT with Baidu Wenku AI. Smart template selection based on content.",
+      "category": "office",
+      "tags": [
+        "office"
+      ],
+      "stats": {
+        "downloads": 33336,
+        "installs": 1000,
+        "stars": 56
+      },
+      "version": "1.1.5",
+      "updatedAt": 1778486075083,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/ide-rea/ai-ppt-generator"
+    },
+    {
+      "id": "clawhub:ddg-web-search",
+      "source": "clawhub",
+      "slug": "ddg-web-search",
+      "owner": "jakelin",
+      "name": "DuckDuckGo Web Search",
+      "summary": "Web search without an API key using DuckDuckGo Lite via web_fetch. Use as a fallback when web_search fails with missing_brave_api_key error, or whenever you...",
+      "summaryEn": "Web search without an API key using DuckDuckGo Lite via web_fetch. Use as a fallback when web_search fails with missing_brave_api_key error, or whenever you...",
+      "category": "search",
+      "tags": [
+        "Web Search",
+        "Search The Web"
+      ],
+      "stats": {
+        "downloads": 32701,
+        "installs": 1107,
+        "stars": 28
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778491545704,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/jakelin/ddg-web-search"
+    },
+    {
+      "id": "clawhub:stock-market-pro",
+      "source": "clawhub",
+      "slug": "stock-market-pro",
+      "owner": "kys42",
+      "name": "Stock Market Pro",
+      "summary": "Yahoo Finance (yfinance) powered stock analysis skill: quotes, fundamentals, ASCII trends, high-resolution charts (RSI/MACD/BB/VWAP/ATR), plus optional web a...",
+      "summaryEn": "Yahoo Finance (yfinance) powered stock analysis skill: quotes, fundamentals, ASCII trends, high-resolution charts (RSI/MACD/BB/VWAP/ATR), plus optional web a...",
+      "category": "data",
+      "tags": [
+        "Stock Market",
+        "Stock Analysis",
+        "Browser",
+        "News"
+      ],
+      "stats": {
+        "downloads": 32457,
+        "installs": 1026,
+        "stars": 155
+      },
+      "version": "1.2.12",
+      "updatedAt": 1778485868789,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/kys42/stock-market-pro"
+    },
+    {
+      "id": "clawhub:memory-manager",
+      "source": "clawhub",
+      "slug": "memory-manager",
+      "owner": "marmikcfc",
+      "name": "Memory Manager",
+      "summary": "Local memory management for agents. Compression detection, auto-snapshots, and semantic search. Use when agents need to detect compression risk before memory loss, save context snapshots, search historical memories, or…",
+      "summaryEn": "Local memory management for agents. Compression detection, auto-snapshots, and semantic search. Use when agents need to detect compression risk before memory loss, save context snapshots, search historical memories, or…",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "stats": {
+        "downloads": 32379,
+        "installs": 1107,
+        "stars": 94
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485878349,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/marmikcfc/memory-manager"
+    },
+    {
+      "id": "clawhub:akshare-stock",
+      "source": "clawhub",
+      "slug": "akshare-stock",
+      "owner": "mbpz",
+      "name": "A股量化 AkShare",
+      "summary": "A股量化数据分析工具，基于AkShare库获取A股行情、财务数据、板块信息等。用于回答关于A股股票查询、行情数据、财务分析、选股等问题。",
+      "summaryEn": "A股量化数据分析工具，基于AkShare库获取A股行情、财务数据、板块信息等。用于回答关于A股股票查询、行情数据、财务分析、选股等问题。",
+      "category": "data",
+      "tags": [
+        "Stock",
+        "数据分析",
+        "财务分析",
+        "接口",
+        "股票"
+      ],
+      "stats": {
+        "downloads": 32170,
+        "installs": 1027,
+        "stars": 102
+      },
+      "version": "1.0.1",
+      "updatedAt": 1778491691403,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/mbpz/akshare-stock"
+    },
+    {
+      "id": "clawhub:apple-reminders",
+      "source": "clawhub",
+      "slug": "apple-reminders",
+      "owner": "steipete",
+      "name": "Apple Reminders",
+      "summary": "Manage Apple Reminders via the `remindctl` CLI on macOS (list, add, edit, complete, delete). Supports lists, date filters, and JSON/plain output.",
+      "summaryEn": "Manage Apple Reminders via the `remindctl` CLI on macOS (list, add, edit, complete, delete). Supports lists, date filters, and JSON/plain output.",
+      "category": "dev",
+      "tags": [
+        "Json"
+      ],
+      "stats": {
+        "downloads": 32102,
+        "installs": 1323,
+        "stars": 56
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/apple-reminders"
+    },
+    {
+      "id": "clawhub:diagram-generator",
+      "source": "clawhub",
+      "slug": "diagram-generator",
+      "owner": "matthewyin",
+      "name": "diagram-generator",
+      "summary": "Generate and edit diagrams with the mcp-diagram-generator MCP server. Use this skill for new diagrams, existing .drawio/.mmd/.excalidraw edits, network topology, architecture, flowchart, swimlane, sequence, class, ER…",
+      "summaryEn": "Generate and edit diagrams with the mcp-diagram-generator MCP server. Use this skill for new diagrams, existing .drawio/.mmd/.excalidraw edits, network topology, architecture, flowchart, swimlane, sequence, class, ER…",
+      "category": "design",
+      "tags": [
+        "design"
+      ],
+      "stats": {
+        "downloads": 32090,
+        "installs": 1005,
+        "stars": 47
+      },
+      "version": "1.1.7",
+      "updatedAt": 1784447092984,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/matthewyin/diagram-generator"
+    },
+    {
+      "id": "clawhub:duckduckgo-search",
+      "source": "clawhub",
+      "slug": "duckduckgo-search",
+      "owner": "10e9928a",
+      "name": "Performs web searches using DuckDuckGo to retrieve real-time information from the internet. Use when the user needs to search for current events, documentation, tutorials, or any information that requires web search capabilities.",
+      "summary": "Performs web searches using DuckDuckGo to retrieve real-time information from the internet. Use when the user needs to search for current events, documentation, tutorials, or any information that requires web search…",
+      "summaryEn": "Performs web searches using DuckDuckGo to retrieve real-time information from the internet. Use when the user needs to search for current events, documentation, tutorials, or any information that requires web search…",
+      "category": "search",
+      "tags": [
+        "Web Search",
+        "Documentation"
+      ],
+      "stats": {
+        "downloads": 31800,
+        "installs": 906,
+        "stars": 40
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778486000320,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/10e9928a/duckduckgo-search"
+    },
+    {
+      "id": "clawhub:playwright-scraper-skill",
+      "source": "clawhub",
+      "slug": "playwright-scraper-skill",
+      "owner": "waisimon",
+      "name": "Playwright Scraper Skill",
+      "summary": "Playwright-based web scraping OpenClaw Skill with anti-bot protection. Successfully tested on complex sites like Discuss.com.hk.",
+      "summaryEn": "Playwright-based web scraping OpenClaw Skill with anti-bot protection. Successfully tested on complex sites like Discuss.com.hk.",
+      "category": "search",
+      "tags": [
+        "Playwright",
+        "Web Scraping"
+      ],
+      "stats": {
+        "downloads": 31712,
+        "installs": 1081,
+        "stars": 57
+      },
+      "version": "1.2.0",
+      "updatedAt": 1779076713703,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/waisimon/playwright-scraper-skill"
+    },
+    {
+      "id": "clawhub:exa-web-search-free",
+      "source": "clawhub",
+      "slug": "exa-web-search-free",
+      "owner": "whiteknight07",
+      "name": "Exa Web Search (Free)",
+      "summary": "Free AI search via Exa MCP. Web search for news/info, code search for docs/examples from GitHub/StackOverflow, company research for business intel. No API key needed.",
+      "summaryEn": "Free AI search via Exa MCP. Web search for news/info, code search for docs/examples from GitHub/StackOverflow, company research for business intel. No API key needed.",
+      "category": "search",
+      "tags": [
+        "Web Search",
+        "Business",
+        "Docs",
+        "GitHub",
+        "News"
+      ],
+      "stats": {
+        "downloads": 31362,
+        "installs": 903,
+        "stars": 68
+      },
+      "version": "1.0.1",
+      "updatedAt": 1778485867301,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/whiteknight07/exa-web-search-free"
+    },
+    {
+      "id": "clawhub:frontend-design-3",
+      "source": "clawhub",
+      "slug": "frontend-design-3",
+      "owner": "michaelmonetized",
+      "name": "Frontend Design",
+      "summary": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when building web components, pages, or applications. Generates creative, polished code that avoids generic AI aesthetics.",
+      "summaryEn": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when building web components, pages, or applications. Generates creative, polished code that avoids generic AI aesthetics.",
+      "category": "dev",
+      "tags": [
+        "dev"
+      ],
+      "stats": {
+        "downloads": 31342,
+        "installs": 806,
+        "stars": 78
+      },
+      "version": "0.1.0",
+      "updatedAt": 1778487906275,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/michaelmonetized/frontend-design-3"
+    },
+    {
+      "id": "clawhub:git-essentials",
+      "source": "clawhub",
+      "slug": "git-essentials",
+      "owner": "arnarsson",
+      "name": "Git Essentials",
+      "summary": "Essential Git commands and workflows for version control, branching, and collaboration.",
+      "summaryEn": "Essential Git commands and workflows for version control, branching, and collaboration.",
+      "category": "dev",
+      "tags": [
+        "Git"
+      ],
+      "stats": {
+        "downloads": 31012,
+        "installs": 957,
+        "stars": 38
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485868789,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/arnarsson/git-essentials"
+    },
+    {
+      "id": "clawhub:browserbase",
+      "source": "clawhub",
+      "slug": "browserbase",
+      "owner": "jamesfincher",
+      "name": "Browserbase Persist with captcha",
+      "summary": "Create and manage persistent Browserbase cloud browser sessions with authentication persistence. Use when the user needs to automate browsers, maintain logged-in sessions across interactions, scrape authenticated…",
+      "summaryEn": "Create and manage persistent Browserbase cloud browser sessions with authentication persistence. Use when the user needs to automate browsers, maintain logged-in sessions across interactions, scrape authenticated…",
+      "category": "search",
+      "tags": [
+        "Browser"
+      ],
+      "stats": {
+        "downloads": 30170,
+        "installs": 54,
+        "stars": 2
+      },
+      "version": "1.0.0",
+      "updatedAt": 1779076812409,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/jamesfincher/browserbase"
+    },
+    {
+      "id": "clawhub:code",
+      "source": "clawhub",
+      "slug": "code",
+      "owner": "ivangdavila",
+      "name": "Code",
+      "summary": "Coding workflow with planning, implementation, verification, and testing for clean software development.",
+      "summaryEn": "Coding workflow with planning, implementation, verification, and testing for clean software development.",
+      "category": "dev",
+      "tags": [
+        "Software Development",
+        "Coding"
+      ],
+      "stats": {
+        "downloads": 30014,
+        "installs": 913,
+        "stars": 54
+      },
+      "version": "1.0.4",
+      "updatedAt": 1778487899210,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/ivangdavila/code"
+    },
+    {
+      "id": "clawhub:superpowers",
+      "source": "clawhub",
+      "slug": "superpowers",
+      "owner": "wlshlad85",
+      "name": "Superpowers Dev Workflow",
+      "summary": "Spec-first, TDD, subagent-driven software development workflow. Use when: (1) building any new feature or app — triggers brainstorm → plan → subagent executi...",
+      "summaryEn": "Spec-first, TDD, subagent-driven software development workflow. Use when: (1) building any new feature or app — triggers brainstorm → plan → subagent executi...",
+      "category": "dev",
+      "tags": [
+        "Debugging",
+        "Subagent",
+        "Software Development"
+      ],
+      "stats": {
+        "downloads": 29887,
+        "installs": 731,
+        "stars": 23
+      },
+      "version": "1.0.0",
+      "updatedAt": 1789594554485,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/wlshlad85/superpowers"
+    },
+    {
+      "id": "clawhub:china-stock-analysis",
+      "source": "clawhub",
+      "slug": "china-stock-analysis",
+      "owner": "paulshe",
+      "name": "China Stock Analysis",
+      "summary": "Analyze Chinese stock prices (A-shares, HK stocks) and provide investment recommendations. Use when the user asks about stock analysis for Chinese companies,...",
+      "summaryEn": "Analyze Chinese stock prices (A-shares, HK stocks) and provide investment recommendations. Use when the user asks about stock analysis for Chinese companies,...",
+      "category": "data",
+      "tags": [
+        "Stock Analysis",
+        "Investment"
+      ],
+      "stats": {
+        "downloads": 29839,
+        "installs": 937,
+        "stars": 48
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778491811973,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/paulshe/china-stock-analysis"
+    },
+    {
+      "id": "clawhub:sag",
+      "source": "clawhub",
+      "slug": "sag",
+      "owner": "steipete",
+      "name": "Sag",
+      "summary": "ElevenLabs text-to-speech with mac-style say UX.",
+      "summaryEn": "ElevenLabs text-to-speech with mac-style say UX.",
+      "category": "media",
+      "tags": [
+        "Text-to-Speech"
+      ],
+      "stats": {
+        "downloads": 29107,
+        "installs": 1286,
+        "stars": 29
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/sag"
+    },
+    {
+      "id": "clawhub:proactivity",
+      "source": "clawhub",
+      "slug": "proactivity",
+      "owner": "ivangdavila",
+      "name": "Proactivity (Proactive Agent)",
+      "summary": "Anticipates needs, keeps work moving, and improves through use so the agent gets more proactive over time.",
+      "summaryEn": "Anticipates needs, keeps work moving, and improves through use so the agent gets more proactive over time.",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "stats": {
+        "downloads": 29105,
+        "installs": 981,
+        "stars": 38
+      },
+      "version": "1.0.1",
+      "updatedAt": 1778491549296,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/ivangdavila/proactivity"
+    },
+    {
+      "id": "clawhub:youtube-api-skill",
+      "source": "clawhub",
+      "slug": "youtube-api-skill",
+      "owner": "byungkyu",
+      "name": "YouTube",
+      "summary": "YouTube Data API integration with managed OAuth. Search videos, manage playlists, access channel data, and interact with comments. Use this skill when users want to interact with YouTube. For other third party apps…",
+      "summaryEn": "YouTube Data API integration with managed OAuth. Search videos, manage playlists, access channel data, and interact with comments. Use this skill when users want to interact with YouTube. For other third party apps…",
+      "category": "dev",
+      "tags": [
+        "Api Integration"
+      ],
+      "stats": {
+        "downloads": 28956,
+        "installs": 885,
+        "stars": 145
+      },
+      "version": "1.2.5",
+      "updatedAt": 1790941264737,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/byungkyu/youtube-api-skill"
+    },
+    {
+      "id": "clawhub:homeassistant-skill",
+      "source": "clawhub",
+      "slug": "homeassistant-skill",
+      "owner": "anotb",
+      "name": "Home Assistant Skill",
+      "summary": "Inspect and control Home Assistant using REST and supported WebSocket workflows. Discover capabilities, action schemas, device/entity registries, Assist, automations, calendars, energy statistics and diagnostics. Use…",
+      "summaryEn": "Inspect and control Home Assistant using REST and supported WebSocket workflows. Discover capabilities, action schemas, device/entity registries, Assist, automations, calendars, energy statistics and diagnostics. Use…",
+      "category": "dev",
+      "tags": [
+        "Rest Api",
+        "Smart Home",
+        "Weather"
+      ],
+      "stats": {
+        "downloads": 28673,
+        "installs": 264,
+        "stars": 16
+      },
+      "version": "2.2.0",
+      "updatedAt": 1791780955461,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/anotb/homeassistant-skill"
+    },
+    {
+      "id": "clawhub:spotify-player",
+      "source": "clawhub",
+      "slug": "spotify-player",
+      "owner": "steipete",
+      "name": "Spotify Player",
+      "summary": "Terminal Spotify playback/search via spogo (preferred) or spotify_player.",
+      "summaryEn": "Terminal Spotify playback/search via spogo (preferred) or spotify_player.",
+      "category": "media",
+      "tags": [
+        "media"
+      ],
+      "stats": {
+        "downloads": 28371,
+        "installs": 1235,
+        "stars": 55
+      },
+      "version": "1.0.0",
+      "updatedAt": 1779137327234,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/spotify-player"
+    },
+    {
+      "id": "clawhub:security-auditor",
+      "source": "clawhub",
+      "slug": "security-auditor",
+      "owner": "jgarrison929",
+      "name": "Security Auditor",
+      "summary": "Use when reviewing code for security vulnerabilities, implementing authentication flows, auditing OWASP Top 10, configuring CORS/CSP headers, handling secrets, input validation, SQL injection prevention, XSS…",
+      "summaryEn": "Use when reviewing code for security vulnerabilities, implementing authentication flows, auditing OWASP Top 10, configuring CORS/CSP headers, handling secrets, input validation, SQL injection prevention, XSS…",
+      "category": "security",
+      "tags": [
+        "Vulnerability",
+        "Code Review"
+      ],
+      "stats": {
+        "downloads": 28247,
+        "installs": 871,
+        "stars": 47
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485987525,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/jgarrison929/security-auditor"
+    },
+    {
+      "id": "clawhub:marketing-mode",
+      "source": "clawhub",
+      "slug": "marketing-mode",
+      "owner": "thesethrose",
+      "name": "Marketing Mode",
+      "summary": "Marketing Mode combines 23 comprehensive marketing skills covering strategy, psychology, content, SEO, conversion optimization, and paid growth. Use when users need marketing strategy, copywriting, SEO help, conversion…",
+      "summaryEn": "Marketing Mode combines 23 comprehensive marketing skills covering strategy, psychology, content, SEO, conversion optimization, and paid growth. Use when users need marketing strategy, copywriting, SEO help, conversion…",
+      "category": "writing",
+      "tags": [
+        "Marketing",
+        "Knowledge Base"
+      ],
+      "stats": {
+        "downloads": 28073,
+        "installs": 844,
+        "stars": 170
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778986973131,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/thesethrose/marketing-mode"
+    },
+    {
+      "id": "clawhub:microsoft-excel",
+      "source": "clawhub",
+      "slug": "microsoft-excel",
+      "owner": "byungkyu",
+      "name": "microsoft-excel",
+      "summary": "Microsoft Excel API integration with managed OAuth. Read and write Excel workbooks, worksheets, ranges, tables, and charts stored in OneDrive. Use this skill when users want to read or modify Excel spreadsheets, manage…",
+      "summaryEn": "Microsoft Excel API integration with managed OAuth. Read and write Excel workbooks, worksheets, ranges, tables, and charts stored in OneDrive. Use this skill when users want to read or modify Excel spreadsheets, manage…",
+      "category": "office",
+      "tags": [
+        "Api Integration",
+        "Spreadsheets"
+      ],
+      "stats": {
+        "downloads": 27988,
+        "installs": 804,
+        "stars": 42
+      },
+      "version": "1.2.5",
+      "updatedAt": 1790939130384,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/byungkyu/microsoft-excel"
+    },
+    {
+      "id": "clawhub:openai-whisper-api",
+      "source": "clawhub",
+      "slug": "openai-whisper-api",
+      "owner": "steipete",
+      "name": "Openai Whisper Api",
+      "summary": "Transcribe audio via OpenAI Audio Transcriptions API (Whisper).",
+      "summaryEn": "Transcribe audio via OpenAI Audio Transcriptions API (Whisper).",
+      "category": "dev",
+      "tags": [
+        "Audio",
+        "Transcribe"
+      ],
+      "stats": {
+        "downloads": 27947,
+        "installs": 1204,
+        "stars": 52
+      },
+      "version": "1.0.0",
+      "updatedAt": 1779137313987,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/openai-whisper-api"
+    },
+    {
+      "id": "clawhub:agent-team-orchestration",
+      "source": "clawhub",
+      "slug": "agent-team-orchestration",
+      "owner": "arminnaimi",
+      "name": "Agent Team Orchestration",
+      "summary": "Orchestrate multi-agent teams with defined roles, task lifecycles, handoff protocols, and review workflows. Use when: (1) Setting up a team of 2+ agents with different specializations, (2) Defining task routing and…",
+      "summaryEn": "Orchestrate multi-agent teams with defined roles, task lifecycles, handoff protocols, and review workflows. Use when: (1) Setting up a team of 2+ agents with different specializations, (2) Defining task routing and…",
+      "category": "agent",
+      "tags": [
+        "Orchestration",
+        "Multi Agent"
+      ],
+      "stats": {
+        "downloads": 27599,
+        "installs": 996,
+        "stars": 86
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778488085397,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/arminnaimi/agent-team-orchestration"
+    },
+    {
+      "id": "clawhub:market-research",
+      "source": "clawhub",
+      "slug": "market-research",
+      "owner": "ivangdavila",
+      "name": "Market Research",
+      "summary": "Research markets with sizing, segmentation, competitor mapping, pricing checks, and demand validation that turn fuzzy ideas into decision-ready evidence. Use...",
+      "summaryEn": "Research markets with sizing, segmentation, competitor mapping, pricing checks, and demand validation that turn fuzzy ideas into decision-ready evidence. Use...",
+      "category": "search",
+      "tags": [
+        "Market Research"
+      ],
+      "stats": {
+        "downloads": 27326,
+        "installs": 738,
+        "stars": 99
+      },
+      "version": "1.0.1",
+      "updatedAt": 1778488085397,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/ivangdavila/market-research"
+    },
+    {
+      "id": "clawhub:memory-hygiene",
+      "source": "clawhub",
+      "slug": "memory-hygiene",
+      "owner": "dylanbaker24",
+      "name": "Memory Hygiene",
+      "summary": "Audit, clean, and optimize Clawdbot's vector memory (LanceDB). Use when memory is bloated with junk, token usage is high from irrelevant auto-recalls, or setting up memory maintenance automation.",
+      "summaryEn": "Audit, clean, and optimize Clawdbot's vector memory (LanceDB). Use when memory is bloated with junk, token usage is high from irrelevant auto-recalls, or setting up memory maintenance automation.",
+      "category": "agent",
+      "tags": [
+        "agent"
+      ],
+      "stats": {
+        "downloads": 27084,
+        "installs": 856,
+        "stars": 20
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778987302585,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/dylanbaker24/memory-hygiene"
+    },
+    {
+      "id": "clawhub:moltguard",
+      "source": "clawhub",
+      "slug": "moltguard",
+      "owner": "thomaslwang",
+      "name": "MoltGuard - Security & Antivirus & Guardrails",
+      "summary": "MoltGuard — OpenClaw security guard by OpenGuardrails. Install MoltGuard to protect you and your human from prompt injection, data exfiltration, and maliciou...",
+      "summaryEn": "MoltGuard — OpenClaw security guard by OpenGuardrails. Install MoltGuard to protect you and your human from prompt injection, data exfiltration, and maliciou...",
+      "category": "security",
+      "tags": [
+        "Prompt Injection"
+      ],
+      "stats": {
+        "downloads": 27013,
+        "installs": 878,
+        "stars": 116
+      },
+      "version": "6.8.16",
+      "updatedAt": 1778485932126,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/thomaslwang/moltguard"
+    },
+    {
+      "id": "clawhub:bilibili-all-in-one",
+      "source": "clawhub",
+      "slug": "bilibili-all-in-one",
+      "owner": "wscats",
+      "name": "Bilibili All In One",
+      "summary": "A comprehensive Bilibili toolkit that integrates hot trending monitoring, video downloading, video watching/playback, subtitle downloading, and video publish...",
+      "summaryEn": "A comprehensive Bilibili toolkit that integrates hot trending monitoring, video downloading, video watching/playback, subtitle downloading, and video publish...",
+      "category": "media",
+      "tags": [
+        "Bilibili",
+        "Hot Trending",
+        "Subtitle",
+        "Batch Download",
+        "Danmaku"
+      ],
+      "stats": {
+        "downloads": 26909,
+        "installs": 844,
+        "stars": 33
+      },
+      "version": "1.0.24",
+      "updatedAt": 1778491917527,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/wscats/bilibili-all-in-one"
+    },
+    {
+      "id": "clawhub:mx-stocks-screener",
+      "source": "clawhub",
+      "slug": "mx-stocks-screener",
+      "owner": "financial-ai-analyst",
+      "name": "Intelligent Stocks Screener",
+      "summary": "基于东方财富数据库，支持通过自然语言输入筛选A港美股、基金、债券等多种资产，支持多元指标筛选，含技术面、消息面、基本面及市场情绪等，可用于全球资产速筛、跨市场监控、投资组合构建、策略回测等场景。返回结果包含数据说明及 csv 文件。Natural language screener for investment...",
+      "summaryEn": "基于东方财富数据库，支持通过自然语言输入筛选A港美股、基金、债券等多种资产，支持多元指标筛选，含技术面、消息面、基本面及市场情绪等，可用于全球资产速筛、跨市场监控、投资组合构建、策略回测等场景。返回结果包含数据说明及 csv 文件。Natural language screener for investment...",
+      "category": "data",
+      "tags": [
+        "CSV",
+        "Investment",
+        "投资组合",
+        "数据库"
+      ],
+      "stats": {
+        "downloads": 26688,
+        "installs": 866,
+        "stars": 106
+      },
+      "version": "1.0.15",
+      "updatedAt": 1778491876821,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/financial-ai-analyst/mx-stocks-screener"
+    },
+    {
+      "id": "clawhub:openai-image-gen",
+      "source": "clawhub",
+      "slug": "openai-image-gen",
+      "owner": "steipete",
+      "name": "Openai Image Gen",
+      "summary": "Batch-generate images via OpenAI Images API. Random prompt sampler + `index.html` gallery.",
+      "summaryEn": "Batch-generate images via OpenAI Images API. Random prompt sampler + `index.html` gallery.",
+      "category": "design",
+      "tags": [
+        "Prompt"
+      ],
+      "stats": {
+        "downloads": 26591,
+        "installs": 1134,
+        "stars": 38
+      },
+      "version": "1.0.1",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/openai-image-gen"
+    },
+    {
+      "id": "clawhub:firecrawl-search",
+      "source": "clawhub",
+      "slug": "firecrawl-search",
+      "owner": "ashwingupy",
+      "name": "Firecrawl Search",
+      "summary": "Web search and scraping via Firecrawl API. Use when you need to search the web, scrape websites (including JS-heavy pages), crawl entire sites, or extract structured data from web pages. Requires FIRECRAWL_API_KEY…",
+      "summaryEn": "Web search and scraping via Firecrawl API. Use when you need to search the web, scrape websites (including JS-heavy pages), crawl entire sites, or extract structured data from web pages. Requires FIRECRAWL_API_KEY…",
+      "category": "search",
+      "tags": [
+        "Search The Web",
+        "Web Search",
+        "Crawl",
+        "Scrape"
+      ],
+      "stats": {
+        "downloads": 26492,
+        "installs": 778,
+        "stars": 52
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485857338,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/ashwingupy/firecrawl-search"
+    },
+    {
+      "id": "clawhub:openclaw-skill-vetter",
+      "source": "clawhub",
+      "slug": "openclaw-skill-vetter",
+      "owner": "donovanpankratz-del",
+      "name": "Skill Vetter - Pre-Install Security Review",
+      "summary": "Security vetting protocol before installing any AI agent skill. Red flag detection for credential theft, obfuscated code, exfiltration. Risk classification L...",
+      "summaryEn": "Security vetting protocol before installing any AI agent skill. Red flag detection for credential theft, obfuscated code, exfiltration. Risk classification L...",
+      "category": "security",
+      "tags": [
+        "security"
+      ],
+      "stats": {
+        "downloads": 26307,
+        "installs": 801,
+        "stars": 27
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778491636632,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/donovanpankratz-del/openclaw-skill-vetter"
+    },
+    {
+      "id": "clawhub:youtube-transcript",
+      "source": "clawhub",
+      "slug": "youtube-transcript",
+      "owner": "xthezealot",
+      "name": "YouTube Transcript",
+      "summary": "Fetch and summarize YouTube video transcripts. Use when asked to summarize, transcribe, or extract content from YouTube videos. Handles transcript fetching via residential IP proxy to bypass YouTube's cloud IP blocks.",
+      "summaryEn": "Fetch and summarize YouTube video transcripts. Use when asked to summarize, transcribe, or extract content from YouTube videos. Handles transcript fetching via residential IP proxy to bypass YouTube's cloud IP blocks.",
+      "category": "media",
+      "tags": [
+        "Summarize"
+      ],
+      "stats": {
+        "downloads": 26206,
+        "installs": 850,
+        "stars": 24
+      },
+      "version": "1.0.1",
+      "updatedAt": 1778987230683,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/xthezealot/youtube-transcript"
+    },
+    {
+      "id": "clawhub:opencode-controller",
+      "source": "clawhub",
+      "slug": "opencode-controller",
+      "owner": "karatla",
+      "name": "Opencode-controller",
+      "summary": "Control and operate Opencode via slash commands. Use this skill to manage sessions, select models, switch agents (plan/build), and coordinate coding through Opencode.",
+      "summaryEn": "Control and operate Opencode via slash commands. Use this skill to manage sessions, select models, switch agents (plan/build), and coordinate coding through Opencode.",
+      "category": "dev",
+      "tags": [
+        "Coding"
+      ],
+      "stats": {
+        "downloads": 25826,
+        "installs": 791,
+        "stars": 80
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485867301,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/karatla/opencode-controller"
+    },
+    {
+      "id": "clawhub:copywriting",
+      "source": "clawhub",
+      "slug": "copywriting",
+      "owner": "jk-0001",
+      "name": "Copywriting",
+      "summary": "Write persuasive copy for landing pages, emails, ads, sales pages, and marketing materials. Use when you need to write headlines, CTAs, product descriptions, ad copy, email sequences, or any text meant to drive action…",
+      "summaryEn": "Write persuasive copy for landing pages, emails, ads, sales pages, and marketing materials. Use when you need to write headlines, CTAs, product descriptions, ad copy, email sequences, or any text meant to drive action…",
+      "category": "writing",
+      "tags": [
+        "Marketing",
+        "Email",
+        "Sales"
+      ],
+      "stats": {
+        "downloads": 25701,
+        "installs": 850,
+        "stars": 47
+      },
+      "version": "0.1.0",
+      "updatedAt": 1778486040582,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/jk-0001/copywriting"
+    },
+    {
+      "id": "clawhub:office-document-specialist-suite",
+      "source": "clawhub",
+      "slug": "office-document-specialist-suite",
+      "owner": "robert-janssen",
+      "name": "Office Document Specialist Suite",
+      "summary": "Advanced suite for creating, editing, and analyzing Microsoft Office documents (Word, Excel, PowerPoint). Provides specialized tools for automated reporting...",
+      "summaryEn": "Advanced suite for creating, editing, and analyzing Microsoft Office documents (Word, Excel, PowerPoint). Provides specialized tools for automated reporting...",
+      "category": "office",
+      "tags": [
+        "Document"
+      ],
+      "stats": {
+        "downloads": 25381,
+        "installs": 715,
+        "stars": 20
+      },
+      "version": "1.0.2",
+      "updatedAt": 1778491585715,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/robert-janssen/office-document-specialist-suite"
+    },
+    {
+      "id": "clawhub:tushare-finance",
+      "source": "clawhub",
+      "slug": "tushare-finance",
+      "owner": "stanleychanh",
+      "name": "tushare-finance",
+      "summary": "获取中国金融市场数据（A股、港股、美股、基金、期货、债券）。支持220+个Tushare Pro接口：股票行情、财务报表、宏观经济指标。当用户请求股价数据、财务分析、指数行情、GDP/CPI等宏观数据时使用。",
+      "summaryEn": "获取中国金融市场数据（A股、港股、美股、基金、期货、债券）。支持220+个Tushare Pro接口：股票行情、财务报表、宏观经济指标。当用户请求股价数据、财务分析、指数行情、GDP/CPI等宏观数据时使用。",
+      "category": "data",
+      "tags": [
+        "财务分析",
+        "接口",
+        "股票",
+        "财务",
+        "金融"
+      ],
+      "stats": {
+        "downloads": 25195,
+        "installs": 837,
+        "stars": 49
+      },
+      "version": "2.1.0",
+      "updatedAt": 1780993137462,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/stanleychanh/tushare-finance"
+    },
+    {
+      "id": "clawhub:self-improving-agent-cn",
+      "source": "clawhub",
+      "slug": "self-improving-agent-cn",
+      "owner": "zhengxinjipai",
+      "name": "Self Improving Agent CN",
+      "summary": "AI自我改进与记忆系统 - 解决'同类错误反复犯、用户纠正不长记性'的痛点。自动捕获错误、用户纠正、最佳实践，并转化为长期记忆。",
+      "summaryEn": "AI自我改进与记忆系统 - 解决'同类错误反复犯、用户纠正不长记性'的痛点。自动捕获错误、用户纠正、最佳实践，并转化为长期记忆。",
+      "category": "agent",
+      "tags": [
+        "Self Improving",
+        "记忆系统",
+        "记忆"
+      ],
+      "stats": {
+        "downloads": 24942,
+        "installs": 838,
+        "stars": 29
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778491751707,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/zhengxinjipai/self-improving-agent-cn"
+    },
+    {
+      "id": "clawhub:goplaces",
+      "source": "clawhub",
+      "slug": "goplaces",
+      "owner": "steipete",
+      "name": "Goplaces",
+      "summary": "Query Google Places API (New) via the goplaces CLI for text search, place details, resolve, and reviews. Use for human-friendly place lookup or JSON output for scripts.",
+      "summaryEn": "Query Google Places API (New) via the goplaces CLI for text search, place details, resolve, and reviews. Use for human-friendly place lookup or JSON output for scripts.",
+      "category": "dev",
+      "tags": [
+        "Json"
+      ],
+      "stats": {
+        "downloads": 24877,
+        "installs": 1271,
+        "stars": 31
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778485729679,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/steipete/goplaces"
+    },
+    {
+      "id": "clawhub:web-search-plus",
+      "source": "clawhub",
+      "slug": "web-search-plus",
+      "owner": "robbyczgw-cla",
+      "name": "web-search-plus",
+      "summary": "Search the web and extract URLs with routing across Serper, Brave, Tavily, Querit, Linkup, Exa, Firecrawl, You.com, SearXNG, SerpBase, and Keenable. Returns ranked sources and page text; supports freshness filters and…",
+      "summaryEn": "Search the web and extract URLs with routing across Serper, Brave, Tavily, Querit, Linkup, Exa, Firecrawl, You.com, SearXNG, SerpBase, and Keenable. Returns ranked sources and page text; supports freshness filters and…",
+      "category": "search",
+      "tags": [
+        "Web Search",
+        "Auto Routing",
+        "Brave",
+        "Exa",
+        "Firecrawl"
+      ],
+      "stats": {
+        "downloads": 24558,
+        "installs": 737,
+        "stars": 99
+      },
+      "version": "5.0.1",
+      "updatedAt": 1791627788511,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/robbyczgw-cla/web-search-plus"
+    },
+    {
+      "id": "clawhub:whatsapp-business",
+      "source": "clawhub",
+      "slug": "whatsapp-business",
+      "owner": "byungkyu",
+      "name": "WhatsApp Business",
+      "summary": "WhatsApp Business API integration with managed OAuth. Send messages, manage templates, and handle conversations. Use this skill when users want to interact with WhatsApp Business. For other third party apps, use the…",
+      "summaryEn": "WhatsApp Business API integration with managed OAuth. Send messages, manage templates, and handle conversations. Use this skill when users want to interact with WhatsApp Business. For other third party apps, use the…",
+      "category": "dev",
+      "tags": [
+        "WhatsApp",
+        "Api Integration"
+      ],
+      "stats": {
+        "downloads": 24517,
+        "installs": 759,
+        "stars": 61
+      },
+      "version": "1.2.9",
+      "updatedAt": 1790941079849,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/byungkyu/whatsapp-business"
+    },
+    {
+      "id": "clawhub:image",
+      "source": "clawhub",
+      "slug": "image",
+      "owner": "ivangdavila",
+      "name": "Image",
+      "summary": "Create, inspect, process, and optimize image files and visual assets with reliable format choice, resizing, compression, color-profile, metadata, and platfor...",
+      "summaryEn": "Create, inspect, process, and optimize image files and visual assets with reliable format choice, resizing, compression, color-profile, metadata, and platfor...",
+      "category": "design",
+      "tags": [
+        "design"
+      ],
+      "stats": {
+        "downloads": 23235,
+        "installs": 663,
+        "stars": 30
+      },
+      "version": "1.0.4",
+      "updatedAt": 1778486238781,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/ivangdavila/image"
+    },
+    {
+      "id": "clawhub:baidu-netdisk-skills",
+      "source": "clawhub",
+      "slug": "baidu-netdisk-skills",
+      "owner": "wscats",
+      "name": "百度网盘",
+      "summary": "百度网盘(Baidu Drive, pan.baidu.com)文件管理 — 上传、下载、转存、分享、搜索、移动、复制、重命名、创建文件夹、删除（高风险，需用户确认）。 同时支持 Agent 记忆备份/恢复（kimiclaw/maxclaw/qclaw/openclaw）。 TRIGGER: 用户消息明确提及\"百...",
+      "summaryEn": "百度网盘(Baidu Drive, pan.baidu.com)文件管理 — 上传、下载、转存、分享、搜索、移动、复制、重命名、创建文件夹、删除（高风险，需用户确认）。 同时支持 Agent 记忆备份/恢复（kimiclaw/maxclaw/qclaw/openclaw）。 TRIGGER: 用户消息明确提及\"百...",
+      "category": "ops",
+      "tags": [
+        "备份",
+        "消息",
+        "记忆"
+      ],
+      "stats": {
+        "downloads": 23090,
+        "installs": 751,
+        "stars": 19
+      },
+      "version": "1.1.5",
+      "updatedAt": 1780099106134,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/wscats/baidu-netdisk-skills"
+    },
+    {
+      "id": "clawhub:openclaw-find-skills",
+      "source": "clawhub",
+      "slug": "openclaw-find-skills",
+      "owner": "isainazar",
+      "name": "Find Skills",
+      "summary": "Search, discover, and install skills from the open agent skills ecosystem to extend agent capabilities for specific tasks or domains.",
+      "summaryEn": "Search, discover, and install skills from the open agent skills ecosystem to extend agent capabilities for specific tasks or domains.",
+      "category": "ops",
+      "tags": [
+        "Deployment"
+      ],
+      "stats": {
+        "downloads": 22161,
+        "installs": 645,
+        "stars": 16
+      },
+      "version": "1.0.0",
+      "updatedAt": 1787909394637,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/isainazar/openclaw-find-skills"
+    },
+    {
+      "id": "clawhub:qq-zone-photo",
+      "source": "clawhub",
+      "slug": "qq-zone-photo",
+      "owner": "wscats",
+      "name": "Qq Zone Photo",
+      "summary": "管理 QQ空间相册。支持扫码登录、列出相册、浏览照片、上传照片、下载照片/相册、创建相册。当用户需要备份、整理或管理 QQ空间中的照片时使用此技能。",
+      "summaryEn": "管理 QQ空间相册。支持扫码登录、列出相册、浏览照片、上传照片、下载照片/相册、创建相册。当用户需要备份、整理或管理 QQ空间中的照片时使用此技能。",
+      "category": "ops",
+      "tags": [
+        "备份"
+      ],
+      "stats": {
+        "downloads": 21413,
+        "installs": 780,
+        "stars": 8
+      },
+      "version": "1.0.3",
+      "updatedAt": 1778491913988,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/wscats/qq-zone-photo"
+    },
+    {
+      "id": "clawhub:n8n-monitor",
+      "source": "clawhub",
+      "slug": "n8n-monitor",
+      "owner": "smitti7971",
+      "name": "N8n Monitor",
+      "summary": "Monitora o estado, saúde, logs recentes e uso de CPU/memória dos containers N8N via comandos Docker.",
+      "summaryEn": "Monitora o estado, saúde, logs recentes e uso de CPU/memória dos containers N8N via comandos Docker.",
+      "category": "ops",
+      "tags": [
+        "N8n",
+        "Docker"
+      ],
+      "stats": {
+        "downloads": 19979,
+        "installs": 321,
+        "stars": 2
+      },
+      "version": "1.0.1",
+      "updatedAt": 1778485867301,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/smitti7971/n8n-monitor"
+    },
+    {
+      "id": "clawhub:office",
+      "source": "clawhub",
+      "slug": "office",
+      "owner": "ivangdavila",
+      "name": "Office",
+      "summary": "Master Excel, Word, PowerPoint, and Google Workspace with formulas, formatting, and automation.",
+      "summaryEn": "Master Excel, Word, PowerPoint, and Google Workspace with formulas, formatting, and automation.",
+      "category": "office",
+      "tags": [
+        "office"
+      ],
+      "stats": {
+        "downloads": 19229,
+        "installs": 538,
+        "stars": 21
+      },
+      "version": "1.0.0",
+      "updatedAt": 1778488085397,
+      "security": "unknown",
+      "requiresApiKey": false,
+      "pageUrl": "https://clawhub.ai/ivangdavila/office"
+    }
+  ]
+}

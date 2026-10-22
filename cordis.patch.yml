@@ -1,0 +1,4 @@
+- insert:
+    - id: skill-hub
+      name: '@local/dsh-skill-hub'
+      config: {}
