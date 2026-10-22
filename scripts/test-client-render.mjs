@@ -1,11 +1,25 @@
 import { readFileSync } from 'node:fs'
 import { createRequire } from 'node:module'
+import { dirname, join } from 'node:path'
+import { fileURLToPath } from 'node:url'
 
-const requireFromWeb = createRequire('D:/aiworkplace/daily_stock_analysis/apps/dsa-web/package.json')
-const React = requireFromWeb('react')
-const { renderToStaticMarkup } = requireFromWeb('react-dom/server')
+const root = join(dirname(fileURLToPath(import.meta.url)), '..')
+const reactRoot = process.env.DSH_REACT_ROOT
+const requireFrom = createRequire(reactRoot ? join(reactRoot, 'package.json') : join(root, 'package.json'))
 
-let source = readFileSync('D:/aiworkplace/deepseek-workplace/dsh-skill-hub/client.js', 'utf8')
+let React
+let renderToStaticMarkup
+try {
+  React = requireFrom('react')
+  ;({ renderToStaticMarkup } = requireFrom('react-dom/server'))
+} catch {
+  console.error(
+    'Cannot load react / react-dom/server. Run `npm install` in this repo, or set DSH_REACT_ROOT to a project that has them installed.',
+  )
+  process.exit(1)
+}
+
+let source = readFileSync(join(root, 'client.js'), 'utf8')
 source = source.replace(
   'return { apply, inject }',
   `return { apply, inject, __components: { HomePage, DetailPage, InstalledPage, InstallDialog, UninstallDialog, MarketPage, Toast, SidebarAnchor, renderMarkdown } }`,
