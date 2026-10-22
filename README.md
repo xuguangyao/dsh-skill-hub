@@ -18,15 +18,18 @@ DeepSeek Harness 的社区技能市场插件。在 Harness 侧边栏打开「技
 
 ## 安装
 
-在 Harness 插件管理中安装本目录：
+本仓库是一个 DSH Cordis bundle。先把仓库克隆到本地，再把**仓库根目录**（包含 `package.json` 的目录）安装到 Harness：
 
-```text
-D:\aiworkplace\deepseek-workplace\dsh-skill-hub
+```bash
+git clone https://github.com/xuguangyao/dsh-skill-hub.git
+cd dsh-skill-hub
 ```
 
-安装后刷新页面，侧边栏会出现「技能市场」图标。
+然后在 Harness 的插件安装入口选择该目录，或使用插件管理工具把安装目标指向该目录。
 
-也可以从命令行使用插件管理工具安装同一目录；插件包通过 `dsh.bundle.patch` 插入 `skill-hub` 行，Host 与 Client 两半都会生效。
+> 仓库目前为私有仓库，克隆前需要登录有权限的 GitHub 账号。
+
+安装后刷新页面，侧边栏会出现「技能市场」图标。插件通过 `dsh.bundle.patch` 插入 `skill-hub` 行，Host 与 Client 两半都会生效。
 
 ## 使用
 
