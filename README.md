@@ -1,5 +1,7 @@
 # 技能市场 · Skill Market
 
+> A community skill market for DeepSeek Harness: browse, preview and install skills from ClawHub and SkillHub.
+
 DeepSeek Harness 的社区技能市场插件。在 Harness 侧边栏打开「技能市场」，即可浏览精选技能、搜索 ClawHub 与 SkillHub、查看 `SKILL.md` 文件与安全信息，并一键安装到本机技能目录。
 
 ![icon](./icon.svg)
@@ -17,6 +19,8 @@ DeepSeek Harness 的社区技能市场插件。在 Harness 侧边栏打开「技
 - **主题适配**：只使用 Harness 的 `--dsw-alias-*` 主题变量，自动适配明暗主题。
 
 ## 安装
+
+需要已安装 DeepSeek Harness，并使用支持 Cordis bundle 的版本。
 
 本仓库是一个 DSH Cordis bundle。先把仓库克隆到本地，再把**仓库根目录**（包含 `package.json` 的目录）安装到 Harness：
 
